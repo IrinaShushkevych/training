@@ -1,10 +1,12 @@
 import { useState } from 'react'
 import { useSelector } from 'react-redux'
+import { useLocation } from 'react-router-dom'
 import { fetchWords } from '../../redux/selectors'
 import FormEnterWord from '../FormEnterWord'
 import WrongWords from '../WrongWords'
 
 export default function LearningForm() {
+  const location = useLocation()
   const data = useSelector(fetchWords)
   const [dataIdx, setDataIdx] = useState(0)
   const [wrong, setWrong] = useState([])
