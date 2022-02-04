@@ -1,0 +1,39 @@
+.Panel {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgb(112, 112, 238);
+}
+
+.List {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  margin-left: auto;
+
+  font-size: 14px;
+}
+
+.ListRight {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+
+  font-size: 14px;
+}
+
+.Item {
+  padding: 10px;
+}
+
+.Link {
+  color: white;
+}
+
+.Hide {
+  display: none;
+}

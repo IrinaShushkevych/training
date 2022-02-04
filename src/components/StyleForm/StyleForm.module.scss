@@ -1,0 +1,24 @@
+.Form {
+  display: block;
+  padding: 30px;
+  width: 500px;
+  max-width: 100%;
+  outline: 1px solid red;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 14px;
+}
+
+.Input {
+  display: block;
+  width: 100%;
+  margin-bottom: 30px;
+  padding: 10px 0;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.Button {
+  padding: 10px;
+  width: 100%;
+}
