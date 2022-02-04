@@ -1,10 +1,9 @@
-import { initializeApp } from "firebase/app";
+import { initializeApp } from 'firebase/app'
 import {
   getAuth,
   signInWithEmailAndPassword,
   createUserWithEmailAndPassword,
-} from "firebase/auth";
-import { createUser, setName, removeUser } from "../redux/auth/slice";
+} from 'firebase/auth'
 
 const firebaseConfig = {
   apiKey: process.env.REACT_APP_API_KEY,
@@ -13,34 +12,26 @@ const firebaseConfig = {
   storageBucket: process.env.REACT_APP_STORAGE_BUCKET,
   messagingSenderId: process.env.REACT_APP_MESSAGING_SENDER_ID,
   appId: process.env.REACT_APP_APP_ID,
-};
+}
 
-// Initialize Firebase
-const app = initializeApp(firebaseConfig);
+const app = initializeApp(firebaseConfig)
 
 export function loginFirebase(email, password) {
-  const auth = getAuth();
+  const auth = getAuth()
   return signInWithEmailAndPassword(auth, email, password)
     .then((userCredential) => {
-      const user = userCredential.user;
-      return { token: user.accessToken, uid: user.uid };
+      const user = userCredential.user
+      return { token: user.accessToken, uid: user.uid }
     })
-    .catch((error) => {
-      const errorCode = error.code;
-      const errorMessage = error.message;
-    });
+    .catch((error) => ({ error: error.message }))
 }
 
 export function registerFirebase(email, password) {
-  const auth = getAuth();
+  const auth = getAuth()
   return createUserWithEmailAndPassword(auth, email, password)
     .then((userCredential) => {
-      const user = userCredential.user;
-      return { token: user.accessToken, uid: user.uid };
+      const user = userCredential.user
+      return { token: user.accessToken, uid: user.uid }
     })
-    .catch((error) => {
-      const errorCode = error.code;
-      const errorMessage = error.message;
-      // ..
-    });
+    .catch((error) => ({ error: error.message }))
 }

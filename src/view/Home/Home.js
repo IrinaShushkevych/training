@@ -1,17 +1,17 @@
-import { useDispatch, useSelector } from "react-redux";
-import { Link, Outlet } from "react-router-dom";
+import { useDispatch, useSelector } from 'react-redux'
+import { Link, Outlet } from 'react-router-dom'
 
-import { removeUser } from "../../redux/auth/slice";
-import { isAuth } from "../../redux/selectors";
-import s from "./Home.module.scss";
+import { removeUser } from '../../redux/auth/slice'
+import { isAuth } from '../../redux/selectors'
+import s from './Home.module.scss'
 
 export default function Home() {
-  const isAuthed = useSelector(isAuth);
-  const dispatch = useDispatch();
+  const isAuthed = useSelector(isAuth)
+  const dispatch = useDispatch()
 
   const onLogout = () => {
-    dispatch(removeUser());
-  };
+    dispatch(removeUser())
+  }
 
   return (
     <>
@@ -24,7 +24,7 @@ export default function Home() {
               </Link>
             </li>
             <li className={s.Item}>
-              <Link to="/training" className={s.Link}>
+              <Link to="/trainer" className={s.Link}>
                 Training
               </Link>
             </li>
@@ -58,5 +58,5 @@ export default function Home() {
       {/* <Tabs /> */}
       <Outlet />
     </>
-  );
+  )
 }
