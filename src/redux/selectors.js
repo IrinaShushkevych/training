@@ -1,5 +1,4 @@
 export const fetchWords = (state) => {
-  console.log(state);
   return state.enwords[state.typeWords.type].words.filter((el) => !el.know);
 };
 

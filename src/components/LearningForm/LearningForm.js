@@ -1,19 +1,16 @@
-import { useState } from "react";
-import { useSelector } from "react-redux";
-import { useLocation } from "react-router-dom";
-import { fetchWords } from "../../redux/selectors";
-import FormEnterWord from "../FormEnterWord";
-import WrongWords from "../WrongWords";
+import { useState } from 'react'
+import { useSelector } from 'react-redux'
+import { fetchWords } from '../../redux/selectors'
+import FormEnterWord from '../FormEnterWord'
+import WrongWords from '../WrongWords'
 
 export default function LearningForm() {
-  const location = useLocation();
-  const data = useSelector(fetchWords);
-  const [dataIdx, setDataIdx] = useState(0);
-  const [wrong, setWrong] = useState([]);
-  const [right, setRight] = useState([]);
-  const [round, setRound] = useState(1);
-  const [isShow, setIsShow] = useState(false);
-  console.log(location.state.type);
+  const data = useSelector(fetchWords)
+  const [dataIdx, setDataIdx] = useState(0)
+  const [wrong, setWrong] = useState([])
+  const [right, setRight] = useState([])
+  const [round, setRound] = useState(1)
+  const [isShow, setIsShow] = useState(false)
 
   const onSubmit = (value) => {
     if (
@@ -22,28 +19,28 @@ export default function LearningForm() {
       !isShow
     ) {
       if (!wrong.includes(dataIdx)) {
-        setRight((prev) => [...prev, dataIdx]);
+        setRight((prev) => [...prev, dataIdx])
       }
 
       setDataIdx((prev) => {
-        const idx = prev + 1;
+        const idx = prev + 1
         if (idx >= data.length) {
-          setRound((prev) => prev + 1);
-          return 0;
+          setRound((prev) => prev + 1)
+          return 0
         }
-        return idx;
-      });
+        return idx
+      })
     } else {
       if (!wrong.find((el) => el === dataIdx)) {
-        setWrong((prev) => [...prev, dataIdx]);
+        setWrong((prev) => [...prev, dataIdx])
       }
     }
-    setIsShow(false);
-  };
+    setIsShow(false)
+  }
 
   const onShowTranslate = () => {
-    setIsShow(true);
-  };
+    setIsShow(true)
+  }
 
   return data && data[dataIdx] ? (
     <>
@@ -54,7 +51,7 @@ export default function LearningForm() {
           </span>
         )}
         <h1>{data[dataIdx].translateUkr}</h1>
-        {isShow && <h2 style={{ color: "blue" }}>{data[dataIdx].wordEng}</h2>}
+        {isShow && <h2 style={{ color: 'blue' }}>{data[dataIdx].wordEng}</h2>}
         <FormEnterWord onSubmit={onSubmit} onShowTranslate={onShowTranslate} />
         <p>Round {round}</p>
         <p>
@@ -64,6 +61,6 @@ export default function LearningForm() {
       </div>
     </>
   ) : (
-    "No words for learning"
-  );
+    'No words for learning'
+  )
 }
