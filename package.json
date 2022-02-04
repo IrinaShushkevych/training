@@ -1,7 +1,8 @@
 {
-  "name": "learning-word",
+  "name": "training",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://IrinaShushkevych.github.io/training",
   "dependencies": {
     "@mui/material": "^5.3.1",
     "@reduxjs/toolkit": "^1.7.1",
@@ -22,7 +23,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
