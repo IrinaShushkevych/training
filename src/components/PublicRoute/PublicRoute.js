@@ -8,6 +8,5 @@ export default function PublicRoute({
   restricted = false,
 }) {
   const isAuthed = useSelector(isAuth)
-  console.log(isAuthed, restricted)
   return restricted && isAuthed ? <Navigate to={redirectTo} /> : element
 }

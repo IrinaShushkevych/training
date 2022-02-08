@@ -1,18 +1,26 @@
 import { useState } from 'react'
-import { useSelector } from 'react-redux'
+import { useDispatch, useSelector } from 'react-redux'
 import { useLocation } from 'react-router-dom'
-import { fetchWords } from '../../redux/selectors'
+import { fetchWords, fetchLearnedWords, getUserId } from '../../redux/selectors'
 import FormEnterWord from '../FormEnterWord'
 import WrongWords from '../WrongWords'
+import Button from '@mui/material/Button'
+import LibraryAddIcon from '@mui/icons-material/LibraryAdd'
+import { setDataUser } from '../../redux/auth/operations'
 
 export default function LearningForm() {
-  const location = useLocation()
+  const location = useLocation().state?.type
   const data = useSelector(fetchWords)
+  const learnedData = useSelector(fetchLearnedWords)
   const [dataIdx, setDataIdx] = useState(0)
   const [wrong, setWrong] = useState([])
   const [right, setRight] = useState([])
   const [round, setRound] = useState(1)
   const [isShow, setIsShow] = useState(false)
+  const dispatch = useDispatch()
+  const userId = useSelector(getUserId)
+
+  console.log(location)
 
   const onSubmit = (value) => {
     if (
@@ -20,8 +28,8 @@ export default function LearningForm() {
         data[dataIdx].wordEng.toLowerCase().trim() &&
       !isShow
     ) {
-      if (!wrong.includes(dataIdx)) {
-        setRight((prev) => [...prev, dataIdx])
+      if (!wrong.includes(data[dataIdx].id)) {
+        setRight((prev) => [...prev, data[dataIdx].id])
       }
 
       setDataIdx((prev) => {
@@ -33,8 +41,8 @@ export default function LearningForm() {
         return idx
       })
     } else {
-      if (!wrong.find((el) => el === dataIdx)) {
-        setWrong((prev) => [...prev, dataIdx])
+      if (!wrong.find((el) => el === data[dataIdx].id)) {
+        setWrong((prev) => [...prev, data[dataIdx].id])
       }
     }
     setIsShow(false)
@@ -42,6 +50,28 @@ export default function LearningForm() {
 
   const onShowTranslate = () => {
     setIsShow(true)
+  }
+
+  const onSaveData = () => {
+    dispatch(
+      setDataUser({
+        uid: userId,
+        type: location,
+        data: { words: [...learnedData, ...right] },
+      }),
+    )
+  }
+
+  const onUnSaveData = () => {
+    dispatch(
+      setDataUser({
+        uid: userId,
+        type: location,
+        data: {
+          words: [...learnedData.filter((el) => !wrong.includes(el.id))],
+        },
+      }),
+    )
   }
 
   return data && data[dataIdx] ? (
@@ -59,7 +89,16 @@ export default function LearningForm() {
         <p>
           Right: {right.length} / Error: {wrong.length}
         </p>
-        <WrongWords wrong={wrong} data={data} />
+        <Button
+          variant="contained"
+          endIcon={<LibraryAddIcon />}
+          onClick={onSaveData}
+        >
+          Save right words
+        </Button>
+        <WrongWords
+          wrong={data.filter((el) => wrong.includes(el.id)).reverse()}
+        />
       </div>
     </>
   ) : (

@@ -18,14 +18,24 @@ const firebaseConfig = {
 
 const app = initializeApp(firebaseConfig)
 const database = getDatabase(app)
+const auth = getAuth()
+
+const email = sessionStorage.getItem('email')
+const password = sessionStorage.getItem('password')
+if (!auth.currentUser && email && password) {
+  loginFirebase(email, password)
+}
 
 export function loginFirebase(email, password) {
-  const auth = getAuth()
   return signInWithEmailAndPassword(auth, email, password)
     .then((userCredential) => {
       const user = userCredential.user
-      // setDatabase(user.uid)
-      // getData(user.uid)
+      localStorage.setItem(
+        'token',
+        auth.currentUser.stsTokenManager.refreshToken,
+      )
+      sessionStorage.setItem('email', email)
+      sessionStorage.setItem('password', password)
       return { token: user.accessToken, uid: user.uid }
     })
     .catch((error) => ({ error: error.message }))
@@ -41,32 +51,31 @@ export function registerFirebase(email, password) {
     .catch((error) => ({ error: error.message }))
 }
 
-export function setData(
+export async function setData(
   userId = 'BdjgXsoA2reO1VV2qfpV2Xfeb7p1',
-  data = [1, 2, 3],
+  data = [],
   type = 'top',
 ) {
-  set(ref(database, `users/${userId}/words/${type}`), JSON.stringify(data))
+  try {
+    await set(
+      ref(database, `users/${userId}/words/${type}`),
+      JSON.stringify(data),
+    )
+    const response = await getData(userId, type)
+    return response
+  } catch (error) {
+    throw new Error(error.message)
+  }
 }
 
-export async function getData(
-  userId = 'BdjgXsoA2reO1VV2qfpV2Xfeb7p1',
-  type = 'top',
-) {
-  console.log(userId)
-  const response = await get(
-    child(ref(database), `users/${userId}/words/${type}`),
-  )
-    .then((res) => {
-      if (res.exists()) {
-        return JSON.parse(res.val())
-      } else {
-        return 'No data available'
-      }
-    })
-    .catch((error) => {
-      console.error(error)
-    })
-
-  return response
+export async function getData(userId = '', type = '') {
+  try {
+    const response = await get(
+      child(ref(database), `users/${userId}/words/${type}`),
+    )
+    if (!response.val()) return { words: [] }
+    return JSON.parse(response.val())
+  } catch (error) {
+    throw new Error(error.message)
+  }
 }

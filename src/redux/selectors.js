@@ -1,8 +1,11 @@
 export const fetchWords = (state) => {
-  console.log(state)
-  if (!state.typeWords.type) return []
-  return state.enwords[state.typeWords.type]?.words.filter((el) => !el.know)
+  if (!state.auth.type) return []
+  return state.enwords[state.auth.type].words.filter(
+    (el) => !state.auth.words.includes(el.id),
+  )
 }
+
+export const fetchLearnedWords = (state) => state.auth.words
 
 export const fetchTypeWords = (state) => {
   const keys = Object.keys(state.enwords)
@@ -11,4 +14,8 @@ export const fetchTypeWords = (state) => {
 
 export const isAuth = (state) => {
   return state.auth.token ? true : false
+}
+
+export const getUserId = (state) => {
+  return state.auth.uid
 }

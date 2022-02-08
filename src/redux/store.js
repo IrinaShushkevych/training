@@ -10,7 +10,7 @@ import {
   PURGE,
   REGISTER,
 } from 'redux-persist'
-import storage from 'redux-persist/lib/storage'
+import storage from 'redux-persist/lib/storage/session'
 
 import { wordsSlice } from './words/slice'
 import typeReducer from './typeWord/slice'
@@ -19,6 +19,7 @@ import authReducer from './auth/slice'
 const persistConfig = {
   key: 'auth',
   storage,
+  whitelist: ['uid', 'token'],
 }
 
 const middleware = (getDefaultMiddleware) => [

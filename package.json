@@ -5,7 +5,7 @@
   "homepage": "https://IrinaShushkevych.github.io/training",
   "dependencies": {
     "@mui/material": "^5.3.1",
-    "@reduxjs/toolkit": "^1.7.1",
+    "@reduxjs/toolkit": "^1.7.2",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
@@ -50,13 +50,11 @@
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
     "@mui/icons-material": "^5.3.0",
-    "axios": "^0.25.0",
     "eslint": "^7.11.0",
     "husky": "^7.0.4",
     "lint-staged": "^12.3.1",
     "modern-normalize": "^1.1.0",
     "prettier": "^2.5.1",
-    "prop-types": "^15.8.1",
     "react-spinners": "^0.11.0",
     "react-toastify": "^8.1.0",
     "sass": "^1.49.7"

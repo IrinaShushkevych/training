@@ -6,3626 +6,3626 @@
       {
         "wordEng": "become",
         "translateUkr": "Стати, зробитися",
-        "know": true
+        "id": 0
       },
       {
         "wordEng": "while",
         "translateUkr": "Поки, тимчасом як",
-        "know": true
+        "id": 1
       },
       {
         "wordEng": "still",
         "translateUkr": "Досі, все ж",
-        "know": true
+        "id": 2
       },
       {
         "wordEng": "too",
         "translateUkr": "Також",
-        "know": true
+        "id": 3
       },
       {
         "wordEng": "own",
         "translateUkr": "Власний",
-        "know": true
+        "id": 4
       },
 
       {
         "wordEng": "seem",
         "translateUkr": "Здаватися, вбачатися",
-        "know": true
+        "id": 5
       },
 
       {
         "wordEng": "very",
         "translateUkr": "Дуже",
-        "know": true
+        "id": 6
       },
       {
         "wordEng": "through",
         "translateUkr": "Через, наскрізь",
-        "know": true
+        "id": 7
       },
 
       {
         "wordEng": "same",
         "translateUkr": "Однаковий",
-        "know": true
+        "id": 8
       },
 
       {
         "wordEng": "even",
         "translateUkr": "Навіть",
-        "know": true
+        "id": 9
       },
 
       {
         "wordEng": "really",
         "translateUkr": "Дійсно",
-        "know": true
+        "id": 10
       },
 
       {
         "wordEng": "again",
         "translateUkr": "Знову, з другого боку",
-        "know": true
+        "id": 11
       },
 
       {
         "wordEng": "during",
         "translateUkr": "Протягом, під час",
-        "know": true
+        "id": 12
       },
 
       {
         "wordEng": "happen",
         "translateUkr": "Відбуватисяб траплятися",
-        "know": true
+        "id": 13
       },
 
       {
         "wordEng": "issue",
         "translateUkr": "Випуск, проблема",
-        "know": true
+        "id": 14
       },
 
       {
         "wordEng": "until",
         "translateUkr": "Допоки, поки",
-        "know": true
+        "id": 15
       },
 
       {
         "wordEng": "lose",
         "translateUkr": "Втрачати, програвати",
-        "know": true
+        "id": 16
       },
 
       {
         "wordEng": "case",
         "translateUkr": "Випадок",
-        "know": true
+        "id": 17
       },
 
       {
         "wordEng": "always",
         "translateUkr": "Завжди",
-        "know": true
+        "id": 18
       },
       {
         "wordEng": "believe",
         "translateUkr": "Вірити",
-        "know": true
+        "id": 19
       },
 
       {
         "wordEng": "side",
         "translateUkr": "Сторона, бічний",
-        "know": true
+        "id": 20
       },
       {
         "wordEng": "sidewalk",
         "translateUkr": "Тротуар",
-        "know": true
+        "id": 21
       },
 
       {
         "wordEng": "since",
         "translateUkr": "Оскільки, відтоді, з того часу як",
-        "know": true
+        "id": 22
       },
 
       {
         "wordEng": "power",
         "translateUkr": "Потужність, силовий",
-        "know": true
+        "id": 23
       },
 
       {
         "wordEng": "however",
         "translateUkr": "Однак, як би не",
-        "know": false
+        "id": 24
       },
 
       {
         "wordEng": "hold",
         "translateUkr": "Тримати, утримувати",
-        "know": true
+        "id": 25
       },
 
       {
         "wordEng": "provide",
         "translateUkr": "Забезпечувати, надавати",
-        "know": true
+        "id": 26
       },
 
       {
         "wordEng": "among",
         "translateUkr": "Серед, і єпоху",
-        "know": true
+        "id": 27
       },
 
       {
         "wordEng": "against",
         "translateUkr": "Проти, врозріз",
-        "know": true
+        "id": 28
       },
 
       {
         "wordEng": "different",
         "translateUkr": "Інший, відмінний",
-        "know": true
+        "id": 29
       },
       {
         "wordEng": "though",
         "translateUkr": "Хоча",
-        "know": false
+        "id": 30
       },
 
       {
         "wordEng": "service",
         "translateUkr": "Сервіс, обслуговування",
-        "know": true
+        "id": 31
       },
 
       {
         "wordEng": "almost",
         "translateUkr": "Майже",
-        "know": false
+        "id": 32
       },
 
       {
         "wordEng": "away",
         "translateUkr": "Геть, далеко",
-        "know": true
+        "id": 33
       },
 
       {
         "wordEng": "include",
         "translateUkr": "Включати, містити в собі",
-        "know": true
+        "id": 34
       },
       {
         "wordEng": "idea",
         "translateUkr": "Ідея",
-        "know": true
+        "id": 35
       },
       {
         "wordEng": "continue",
         "translateUkr": "Продовжувати",
-        "know": true
+        "id": 36
       },
       {
         "wordEng": "once",
         "translateUkr": "Один раз, якось, колись",
-        "know": true
+        "id": 37
       },
 
       {
         "wordEng": "public",
         "translateUkr": "Громадський",
-        "know": true
+        "id": 38
       },
       {
         "wordEng": "allow",
         "translateUkr": "Дозволити, давати дозвіл",
-        "know": false
+        "id": 39
       },
 
       {
         "wordEng": "enough",
         "translateUkr": "Достатньо",
-        "know": true
+        "id": 40
       },
 
       {
         "wordEng": "actually",
         "translateUkr": "Фактично, насправді",
-        "know": true
+        "id": 41
       },
       {
         "wordEng": "serve",
         "translateUkr": "Служити, слугувати",
-        "know": true
+        "id": 42
       },
       {
         "wordEng": "sense",
         "translateUkr": "Сенс, глузд, почуття",
-        "know": true
+        "id": 43
       },
 
       {
         "wordEng": "far",
         "translateUkr": "Далеко",
-        "know": true
+        "id": 44
       },
 
       {
         "wordEng": "set",
         "translateUkr": "Встановлювати",
-        "know": true
+        "id": 45
       },
 
       {
         "wordEng": "social",
         "translateUkr": "Соціальний",
-        "know": true
+        "id": 46
       },
       {
         "wordEng": "parent",
         "translateUkr": "Батьківський, один з батьків",
-        "know": true
+        "id": 47
       },
       {
         "wordEng": "already",
         "translateUkr": "Вже",
-        "know": true
+        "id": 48
       },
 
       {
         "wordEng": "least",
         "translateUkr": "Найменьший",
-        "know": true
+        "id": 49
       },
 
       {
         "wordEng": "within",
         "translateUkr": "Всередині, в межах",
-        "know": true
+        "id": 50
       },
 
       {
         "wordEng": "although",
         "translateUkr": "Хоча",
-        "know": true
+        "id": 51
       },
       {
         "wordEng": "able",
         "translateUkr": "Здатний, вправний",
-        "know": true
+        "id": 52
       },
 
       {
         "wordEng": "probably",
         "translateUkr": "Ймовірно",
-        "know": false
+        "id": 53
       },
 
       {
         "wordEng": "community",
         "translateUkr": "Спільнота, громада",
-        "know": true
+        "id": 54
       },
 
       {
         "wordEng": "best",
         "translateUkr": "Ліпший",
-        "know": true
+        "id": 55
       },
 
       {
         "wordEng": "spend",
         "translateUkr": "Витрачати",
-        "know": true
+        "id": 56
       },
       {
         "wordEng": "sure",
         "translateUkr": "Впевнений",
-        "know": true
+        "id": 57
       },
       {
         "wordEng": "grow",
         "translateUkr": "Рости, зростати",
-        "know": true
+        "id": 58
       },
       {
         "wordEng": "reason",
         "translateUkr": "Причина",
-        "know": true
+        "id": 59
       },
       {
         "wordEng": "early",
         "translateUkr": "Ранній",
-        "know": true
+        "id": 60
       },
       {
         "wordEng": "force",
         "translateUkr": "Сила, міць",
-        "know": true
+        "id": 61
       },
       {
         "wordEng": "remember",
         "translateUkr": "Пам'ятати",
-        "know": true
+        "id": 62
       },
 
       {
         "wordEng": "consider",
         "translateUkr": "Розглянути, міркувати, гадати",
-        "know": false
+        "id": 63
       },
       {
         "wordEng": "human",
         "translateUkr": "Людський, людина",
-        "know": true
+        "id": 64
       },
       {
         "wordEng": "send",
         "translateUkr": "Надсилати",
-        "know": true
+        "id": 65
       },
       {
         "wordEng": "fall",
         "translateUkr": "Падати",
-        "know": true
+        "id": 66
       },
       {
         "wordEng": "death",
         "translateUkr": "Смерть",
-        "know": true
+        "id": 67
       },
 
       {
         "wordEng": "real",
         "translateUkr": "Справжній, реальний",
-        "know": true
+        "id": 68
       },
       {
         "wordEng": "several",
         "translateUkr": "Декілька",
-        "know": true
+        "id": 69
       },
       {
         "wordEng": "nothing",
         "translateUkr": "Нічого, ніщо",
-        "know": true
+        "id": 70
       },
       {
         "wordEng": "together",
         "translateUkr": "Разом",
-        "know": true
+        "id": 71
       },
 
       {
         "wordEng": "low",
         "translateUkr": "Низький",
-        "know": true
+        "id": 72
       },
 
       {
         "wordEng": "offer",
         "translateUkr": "Пропозиція, пропонувати",
-        "know": false
+        "id": 73
       },
 
       {
         "wordEng": "policy",
         "translateUkr": "Політика, курс",
-        "know": true
+        "id": 74
       },
       {
         "wordEng": "appear",
         "translateUkr": "З'являтися, ввижатися",
-        "know": true
+        "id": 75
       },
       {
         "wordEng": "wait",
         "translateUkr": "Чекати",
-        "know": true
+        "id": 76
       },
       {
         "wordEng": "expect",
         "translateUkr": "Очікувати",
-        "know": false
+        "id": 77
       },
       {
         "wordEng": "nation",
         "translateUkr": "Нація, народ",
-        "know": true
+        "id": 78
       },
 
       {
         "wordEng": "follow",
         "translateUkr": "Слідувати, іти слідом, наставати після",
-        "know": true
+        "id": 79
       },
       {
         "wordEng": "experience",
         "translateUkr": "Досвід",
-        "know": true
+        "id": 80
       },
       {
         "wordEng": "remain",
         "translateUkr": "Залишитися, лишатися",
-        "know": false
+        "id": 81
       },
       {
         "wordEng": "raise",
         "translateUkr": "Підняти, підвищити",
-        "know": true
+        "id": 82
       },
 
       {
         "wordEng": "rate",
         "translateUkr": "Тариф, темп",
-        "know": true
+        "id": 83
       },
 
       {
         "wordEng": "break",
         "translateUkr": "Ломати",
-        "know": true
+        "id": 84
       },
 
       {
         "wordEng": "support",
         "translateUkr": "Підтримка",
-        "know": true
+        "id": 85
       },
 
       {
         "wordEng": "activity",
         "translateUkr": "Діяльність, активність",
-        "know": true
+        "id": 86
       },
       {
         "wordEng": "behind",
         "translateUkr": "Позаду",
-        "know": true
+        "id": 87
       },
       {
         "wordEng": "effect",
         "translateUkr": "Ефект, вплив",
-        "know": true
+        "id": 88
       },
       {
         "wordEng": "care",
         "translateUkr": "Турбота, догляд",
-        "know": true
+        "id": 89
       },
       {
         "wordEng": "pass",
         "translateUkr": "Пройти, проходити, путівки",
-        "know": true
+        "id": 90
       },
       {
         "wordEng": "require",
         "translateUkr": "Вимагати",
-        "know": false
+        "id": 91
       },
       {
         "wordEng": "better",
         "translateUkr": "Ліпше",
-        "know": true
+        "id": 92
       },
 
       {
         "wordEng": "finally",
         "translateUkr": "Нарешті, накінець, в кінці кінців",
-        "know": true
+        "id": 93
       },
       {
         "wordEng": "less",
         "translateUkr": "Менше",
-        "know": true
+        "id": 94
       },
       {
         "wordEng": "develop",
         "translateUkr": "Розвивати, розробляти",
-        "know": true
+        "id": 95
       },
 
       {
         "wordEng": "difference",
         "translateUkr": "Різниця, відмінність",
-        "know": true
+        "id": 96
       },
 
       {
         "wordEng": "agree",
         "translateUkr": "Погоджуватися",
-        "know": true
+        "id": 97
       },
       {
         "wordEng": "special",
         "translateUkr": "Спеціальний, особливий",
-        "know": true
+        "id": 98
       },
       {
         "wordEng": "event",
         "translateUkr": "Подія",
-        "know": true
+        "id": 99
       },
       {
         "wordEng": "couple",
         "translateUkr": "Пара, парні предмети",
-        "know": true
+        "id": 100
       },
 
       {
         "wordEng": "reach",
         "translateUkr": "Досягти , дістатися",
-        "know": false
+        "id": 101
       },
       {
         "wordEng": "suggest",
         "translateUkr": "Пропонувати",
-        "know": true
+        "id": 102
       },
       {
         "wordEng": "perhaps",
         "translateUkr": "Можливо",
-        "know": false
+        "id": 103
       },
       {
         "wordEng": "former",
         "translateUkr": "Колишній, минулий",
-        "know": true
+        "id": 104
       },
       {
         "wordEng": "along",
         "translateUkr": "Вздовж",
-        "know": true
+        "id": 105
       },
       {
         "wordEng": "economic",
         "translateUkr": "Економічний",
-        "know": true
+        "id": 106
       },
       {
         "wordEng": "possible",
         "translateUkr": "Можливий",
-        "know": true
+        "id": 107
       },
 
       {
         "wordEng": "pull",
         "translateUkr": "Тягнути",
-        "know": true
+        "id": 108
       },
       {
         "wordEng": "decision",
         "translateUkr": "Рішення",
-        "know": true
+        "id": 109
       },
       {
         "wordEng": "view",
         "translateUkr": "Вид, переглядати",
-        "know": true
+        "id": 110
       },
 
       {
         "wordEng": "receive",
         "translateUkr": "Отримувати, приймати",
-        "know": false
+        "id": 111
       },
       {
         "wordEng": "action",
         "translateUkr": "Дія",
-        "know": true
+        "id": 112
       },
       {
         "wordEng": "society",
         "translateUkr": "Суспільство",
-        "know": true
+        "id": 113
       },
       {
         "wordEng": "especially",
         "translateUkr": "Особливо",
-        "know": true
+        "id": 114
       },
 
       {
         "wordEng": "official",
         "translateUkr": "Офіційний",
-        "know": true
+        "id": 115
       },
 
       {
         "wordEng": "development",
         "translateUkr": "Розвиток, розробка",
-        "know": true
+        "id": 116
       },
       {
         "wordEng": "effort",
         "translateUkr": "Зусилля",
-        "know": true
+        "id": 117
       },
       {
         "wordEng": "heart",
         "translateUkr": "Серце",
-        "know": true
+        "id": 118
       },
       {
         "wordEng": "return",
         "translateUkr": "Повернутися",
-        "know": true
+        "id": 119
       },
       {
         "wordEng": "explain",
         "translateUkr": "Пояснити",
-        "know": true
+        "id": 120
       },
       {
         "wordEng": "relationship",
         "translateUkr": "Зв'язок, відносини",
-        "know": true
+        "id": 121
       },
 
       {
         "wordEng": "pick",
         "translateUkr": "Вибирати, збирати, відбір",
-        "know": false
+        "id": 122
       },
       {
         "wordEng": "ground",
         "translateUkr": "Земля, основа",
-        "know": true
+        "id": 123
       },
       {
         "wordEng": "matter",
         "translateUkr": "Діло, матерія",
-        "know": true
+        "id": 124
       },
       {
         "wordEng": "hit",
         "translateUkr": "Вдаряти, попадати",
-        "know": true
+        "id": 125
       },
       {
         "wordEng": "court",
         "translateUkr": "Суд",
-        "know": true
+        "id": 126
       },
       {
         "wordEng": "police",
         "translateUkr": "Поліція",
-        "know": true
+        "id": 127
       },
 
       {
         "wordEng": "major",
         "translateUkr": "Головний, важливіший, повнолітній",
-        "know": true
+        "id": 128
       },
       {
         "wordEng": "report",
         "translateUkr": "Звіт, доповідь",
-        "know": true
+        "id": 129
       },
       {
         "wordEng": "decide",
         "translateUkr": "Вирішити",
-        "know": true
+        "id": 130
       },
 
       {
         "wordEng": "carry",
         "translateUkr": "Нести, носити, переносити ",
-        "know": true
+        "id": 131
       },
 
       {
         "wordEng": "value",
         "translateUkr": "Значення, цінність",
-        "know": true
+        "id": 132
       },
 
       {
         "wordEng": "position",
         "translateUkr": "Позиція, положення",
-        "know": true
+        "id": 133
       },
       {
         "wordEng": "wear",
         "translateUkr": "Носити, одягати",
-        "know": true
+        "id": 134
       },
 
       {
         "wordEng": "everyone",
         "translateUkr": "Кожний",
-        "know": true
+        "id": 135
       },
       {
         "wordEng": "base",
         "translateUkr": "Основа, база",
-        "know": true
+        "id": 136
       },
       {
         "wordEng": "produce",
         "translateUkr": "Виробляти",
-        "know": true
+        "id": 137
       },
       {
         "wordEng": "whole",
         "translateUkr": "Цілий, повний",
-        "know": false
+        "id": 138
       },
 
       {
         "wordEng": "describe",
         "translateUkr": "Описувати",
-        "know": true
+        "id": 139
       },
       {
         "wordEng": "worker",
         "translateUkr": "Працівник",
-        "know": true
+        "id": 140
       },
       {
         "wordEng": "north",
         "translateUkr": "північ",
-        "know": true
+        "id": 141
       },
 
       {
         "wordEng": "nearly",
         "translateUkr": "Майже, приблизно",
-        "know": false
+        "id": 142
       },
       {
         "wordEng": "evidence",
         "translateUkr": "Доказ, свідчення",
-        "know": true
+        "id": 143
       },
 
       {
         "wordEng": "opportunity",
         "translateUkr": "Можливість, нагода",
-        "know": false
+        "id": 144
       },
       {
         "wordEng": "single",
         "translateUkr": "Єдиний, одиночний, самітній",
-        "know": true
+        "id": 145
       },
 
       {
         "wordEng": "increase",
         "translateUkr": "Збільшувати",
-        "know": true
+        "id": 146
       },
       {
         "wordEng": "board",
         "translateUkr": "Дошка",
-        "know": true
+        "id": 147
       },
 
       {
         "wordEng": "cost",
         "translateUkr": "Вартість",
-        "know": true
+        "id": 148
       },
       {
         "wordEng": "data",
         "translateUkr": "Данні",
-        "know": true
+        "id": 149
       },
       {
         "wordEng": "practice",
         "translateUkr": "Практика",
-        "know": true
+        "id": 150
       },
 
       {
         "wordEng": "choose",
         "translateUkr": "Вибрати, обирати",
-        "know": true
+        "id": 151
       },
 
       {
         "wordEng": "chance",
         "translateUkr": "Шанс, випадок",
-        "know": true
+        "id": 152
       },
 
       {
         "wordEng": "material",
         "translateUkr": "Матеріал, речовинний",
-        "know": true
+        "id": 153
       },
 
       {
         "wordEng": "wrong",
         "translateUkr": "Неправильний, невірний",
-        "know": true
+        "id": 154
       },
       {
         "wordEng": "security",
         "translateUkr": "Безпека",
-        "know": true
+        "id": 155
       },
       {
         "wordEng": "seek",
         "translateUkr": "Шукати",
-        "know": true
+        "id": 156
       },
 
       {
         "wordEng": "cover",
         "translateUkr": "Покривати",
-        "know": true
+        "id": 157
       },
       {
         "wordEng": "piece",
         "translateUkr": "Частина, шматок",
-        "know": true
+        "id": 158
       },
 
       {
         "wordEng": "test",
         "translateUkr": "Тест, випробування",
-        "know": true
+        "id": 159
       },
       {
         "wordEng": "simply",
         "translateUkr": "Просто, скромно",
-        "know": true
+        "id": 160
       },
 
       {
         "wordEng": "cause",
         "translateUkr": "Причина",
-        "know": false
+        "id": 161
       },
 
       {
         "wordEng": "available",
         "translateUkr": "Доступний",
-        "know": true
+        "id": 162
       },
       {
         "wordEng": "letter",
         "translateUkr": "Літера, лист",
-        "know": true
+        "id": 163
       },
       {
         "wordEng": "daughter",
         "translateUkr": "Дочка",
-        "know": true
+        "id": 164
       },
       {
         "wordEng": "population",
         "translateUkr": "Населення",
-        "know": true
+        "id": 165
       },
       {
         "wordEng": "risk",
         "translateUkr": "Ризик",
-        "know": true
+        "id": 166
       },
       {
         "wordEng": "involve",
         "translateUkr": "Залучати, втягувати",
-        "know": false
+        "id": 167
       },
       {
         "wordEng": "certainly",
         "translateUkr": "Звичайно, безумовно",
-        "know": false
+        "id": 168
       },
 
       {
         "wordEng": "quite",
         "translateUkr": "Цілком, доволі, аджеж, вдосталь",
-        "know": false
+        "id": 169
       },
       {
         "wordEng": "land",
         "translateUkr": "Земля",
-        "know": true
+        "id": 170
       },
 
       {
         "wordEng": "plant",
         "translateUkr": "Рослина",
-        "know": true
+        "id": 171
       },
       {
         "wordEng": "condition",
         "translateUkr": "Стан, умова, хвороба",
-        "know": false
+        "id": 172
       },
       {
         "wordEng": "south",
         "translateUkr": "Південь",
-        "know": true
+        "id": 173
       },
       {
         "wordEng": "economy",
         "translateUkr": "Економіка",
-        "know": true
+        "id": 174
       },
       {
         "wordEng": "current",
         "translateUkr": "Поточний",
-        "know": true
+        "id": 175
       },
       {
         "wordEng": "defense",
         "translateUkr": "Захист, оборона",
-        "know": true
+        "id": 176
       },
       {
         "wordEng": "private",
         "translateUkr": "Приватний, особистий",
-        "know": true
+        "id": 177
       },
 
       {
         "wordEng": "situation",
         "translateUkr": "Ситуація",
-        "know": true
+        "id": 178
       },
 
       {
         "wordEng": "recent",
         "translateUkr": "Нещодавній",
-        "know": true
+        "id": 179
       },
       {
         "wordEng": "patient",
         "translateUkr": "Терплячий",
-        "know": true
+        "id": 180
       },
       {
         "wordEng": "certain",
         "translateUkr": "Певний, деякий, безсумнівний, відомий",
-        "know": false
+        "id": 181
       },
       {
         "wordEng": "catch",
         "translateUkr": "Ловити, зловити",
-        "know": true
+        "id": 182
       },
       {
         "wordEng": "attention",
         "translateUkr": "Увага",
-        "know": true
+        "id": 183
       },
 
       {
         "wordEng": "soon",
         "translateUkr": "Скоро",
-        "know": true
+        "id": 184
       },
       {
         "wordEng": "realize",
         "translateUkr": "Усвідомлювати, здійснювати",
-        "know": true
+        "id": 185
       },
       {
         "wordEng": "likely",
         "translateUkr": "Ймовірно",
-        "know": false
+        "id": 186
       },
       {
         "wordEng": "choice",
         "translateUkr": "Вибір",
-        "know": true
+        "id": 187
       },
 
       {
         "wordEng": "medical",
         "translateUkr": "Медицинський",
-        "know": true
+        "id": 188
       },
 
       {
         "wordEng": "behavior",
         "translateUkr": "Поведінка, виховання, вчинки, манери",
-        "know": true
+        "id": 189
       },
 
       {
         "wordEng": "rest",
         "translateUkr": "Відпочинок, спокій",
-        "know": true
+        "id": 190
       },
 
       {
         "wordEng": "article",
         "translateUkr": "Стаття",
-        "know": true
+        "id": 191
       },
       {
         "wordEng": "deal",
         "translateUkr": "Угода",
-        "know": true
+        "id": 192
       },
 
       {
         "wordEng": "recently",
         "translateUkr": "Нещодавно",
-        "know": true
+        "id": 193
       },
       {
         "wordEng": "near",
         "translateUkr": "Біля, поблизу",
-        "know": true
+        "id": 194
       },
       {
         "wordEng": "share",
         "translateUkr": "Розділяти, поділити",
-        "know": true
+        "id": 195
       },
       {
         "wordEng": "similar",
         "translateUkr": "Схожий",
-        "know": true
+        "id": 196
       },
       {
         "wordEng": "dead",
         "translateUkr": "Мертвий",
-        "know": true
+        "id": 197
       },
       {
         "wordEng": "career",
         "translateUkr": "Кар'єра",
-        "know": true
+        "id": 198
       },
       {
         "wordEng": "happy",
         "translateUkr": "Шастливий",
-        "know": true
+        "id": 199
       },
       {
         "wordEng": "size",
         "translateUkr": "Розмір",
-        "know": true
+        "id": 200
       },
       {
         "wordEng": "ready",
         "translateUkr": "Готовий",
-        "know": true
+        "id": 201
       },
       {
         "wordEng": "simple",
         "translateUkr": "Простий",
-        "know": true
+        "id": 202
       },
       {
         "wordEng": "resource",
         "translateUkr": "Ресурс",
-        "know": true
+        "id": 203
       },
       {
         "wordEng": "prepare",
         "translateUkr": "Підготувати, готувати",
-        "know": true
+        "id": 204
       },
 
       {
         "wordEng": "growth",
         "translateUkr": "Зріст",
-        "know": true
+        "id": 205
       },
 
       {
         "wordEng": "fight",
         "translateUkr": "Боротися, бій",
-        "know": true
+        "id": 206
       },
       {
         "wordEng": "goal",
         "translateUkr": "Ціль",
-        "know": true
+        "id": 207
       },
       {
         "wordEng": "represent",
         "translateUkr": "Представляти",
-        "know": false
+        "id": 208
       },
       {
         "wordEng": "agency",
         "translateUkr": "Агенція",
-        "know": true
+        "id": 209
       },
       {
         "wordEng": "store",
         "translateUkr": "Склад, магазин",
-        "know": true
+        "id": 210
       },
       {
         "wordEng": "movement",
         "translateUkr": "Рух, пересування, переїзд",
-        "know": true
+        "id": 211
       },
       {
         "wordEng": "poor",
         "translateUkr": "Бідний",
-        "know": true
+        "id": 212
       },
 
       {
         "wordEng": "rise",
         "translateUkr": "Підніматися",
-        "know": true
+        "id": 213
       },
       {
         "wordEng": "shoot",
         "translateUkr": "Стріляти",
-        "know": true
+        "id": 214
       },
       {
         "wordEng": "despite",
         "translateUkr": "Незважаючи на",
-        "know": true
+        "id": 215
       },
       {
         "wordEng": "exactly",
         "translateUkr": "Точно",
-        "know": true
+        "id": 216
       },
 
       {
         "wordEng": "sign",
         "translateUkr": "Знак, ознака",
-        "know": true
+        "id": 217
       },
       {
         "wordEng": "quality",
         "translateUkr": "Якість",
-        "know": true
+        "id": 218
       },
       {
         "wordEng": "identify",
         "translateUkr": "Ідентифікувати",
-        "know": true
+        "id": 219
       },
       {
         "wordEng": "disease",
         "translateUkr": "Захворювання, хвороба",
-        "know": true
+        "id": 220
       },
       {
         "wordEng": "amount",
         "translateUkr": "Кількість",
-        "know": true
+        "id": 221
       },
       {
         "wordEng": "loss",
         "translateUkr": "Втрата, збиток",
-        "know": false
+        "id": 222
       },
 
       {
         "wordEng": "throw",
         "translateUkr": "Кидати, метати",
-        "know": false
+        "id": 223
       },
 
       {
         "wordEng": "reduce",
         "translateUkr": "Зменшувати, скорочувати",
-        "know": true
+        "id": 224
       },
 
       {
         "wordEng": "central",
         "translateUkr": "Центральний, основний, провідний",
-        "know": true
+        "id": 225
       },
       {
         "wordEng": "protect",
         "translateUkr": "Захищати",
-        "know": true
+        "id": 226
       },
       {
         "wordEng": "fund",
         "translateUkr": "Фонд",
-        "know": true
+        "id": 227
       },
       {
         "wordEng": "thought",
         "translateUkr": "Думка, думав, намір",
-        "know": false
+        "id": 228
       },
       {
         "wordEng": "pressure",
         "translateUkr": "Тиск, гніт, вплив",
-        "know": false
+        "id": 229
       },
 
       {
         "wordEng": "success",
         "translateUkr": "Успіх",
-        "know": true
+        "id": 230
       },
       {
         "wordEng": "ability",
         "translateUkr": "Здатність, здібність",
-        "know": true
+        "id": 231
       },
       {
         "wordEng": "degree",
         "translateUkr": "Градус",
-        "know": true
+        "id": 232
       },
       {
         "wordEng": "top",
         "translateUkr": "Вершина",
-        "know": true
+        "id": 233
       },
       {
         "wordEng": "order",
         "translateUkr": "Порядок, замовлення",
-        "know": true
+        "id": 234
       },
       {
         "wordEng": "foreign",
         "translateUkr": "Іноземний",
-        "know": false
+        "id": 235
       },
       {
         "wordEng": "nature",
         "translateUkr": "Природа",
-        "know": true
+        "id": 236
       },
       {
         "wordEng": "sound",
         "translateUkr": "Звук",
-        "know": true
+        "id": 237
       },
       {
         "wordEng": "enter",
         "translateUkr": "Заходити",
-        "know": true
+        "id": 238
       },
       {
         "wordEng": "concern",
         "translateUkr": "Торкатися ",
-        "know": false
+        "id": 239
       },
       {
         "wordEng": "usually",
         "translateUkr": "Зазвичай, звичайно",
-        "know": true
+        "id": 240
       },
       {
         "wordEng": "factor",
         "translateUkr": "Фактор",
-        "know": true
+        "id": 241
       },
       {
         "wordEng": "save",
         "translateUkr": "Рятувати, зберігати",
-        "know": true
+        "id": 242
       },
       {
         "wordEng": "thus",
         "translateUkr": "Таким чином",
-        "know": false
+        "id": 243
       },
       {
         "wordEng": "approach",
         "translateUkr": "Підхід, наближення",
-        "know": false
+        "id": 244
       },
       {
         "wordEng": "serious",
         "translateUkr": "Серьозний",
-        "know": true
+        "id": 245
       },
       {
         "wordEng": "list",
         "translateUkr": "Список",
-        "know": true
+        "id": 246
       },
       {
         "wordEng": "accept",
         "translateUkr": "Приймати, погоджуватися",
-        "know": false
+        "id": 247
       },
       {
         "wordEng": "meeting",
         "translateUkr": "Зустріч, збори",
-        "know": true
+        "id": 248
       },
       {
         "wordEng": "argue",
         "translateUkr": "Сперечатися",
-        "know": false
+        "id": 249
       },
       {
         "wordEng": "staff",
         "translateUkr": "Персонал, штат",
-        "know": false
+        "id": 250
       },
       {
         "wordEng": "wonder",
         "translateUkr": "Дивуватися",
-        "know": false
+        "id": 251
       },
       {
         "wordEng": "training",
         "translateUkr": "Навчання, тренування",
-        "know": true
+        "id": 252
       },
       {
         "wordEng": "quickly",
         "translateUkr": "Швидко",
-        "know": false
+        "id": 253
       },
       {
         "wordEng": "author",
         "translateUkr": "Автор",
-        "know": true
+        "id": 254
       },
       {
         "wordEng": "drop",
         "translateUkr": "Падіння, крапля",
-        "know": false
+        "id": 255
       },
       {
         "wordEng": "color",
         "translateUkr": "Колір",
-        "know": true
+        "id": 256
       },
       {
         "wordEng": "note",
         "translateUkr": "Примітка, замітка",
-        "know": false
+        "id": 257
       },
       {
         "wordEng": "common",
         "translateUkr": "Загальний",
-        "know": false
+        "id": 258
       },
       {
         "wordEng": "significant",
         "translateUkr": "Значний",
-        "know": false
+        "id": 259
       },
       {
         "wordEng": "decade",
         "translateUkr": "Десятиліття",
-        "know": false
+        "id": 260
       },
       {
         "wordEng": "artist",
         "translateUkr": "Художник",
-        "know": true
+        "id": 261
       },
       {
         "wordEng": "treatment",
         "translateUkr": "Лікування, трактування",
-        "know": false
+        "id": 262
       },
       {
         "wordEng": "lie",
         "translateUkr": "Лежати, брехати",
-        "know": false
+        "id": 263
       },
       {
         "wordEng": "occur",
         "translateUkr": "Відбуватися,  залягати",
-        "know": false
+        "id": 264
       },
       {
         "wordEng": "individual",
         "translateUkr": "Індивідуальий",
-        "know": false
+        "id": 265
       },
       {
         "wordEng": "answer",
         "translateUkr": "Відповідь",
-        "know": true
+        "id": 266
       },
       {
         "wordEng": "determine",
         "translateUkr": "Визначати, заміряти",
-        "know": false
+        "id": 267
       },
       {
         "wordEng": "recognize",
         "translateUkr": "Розпізнати",
-        "know": false
+        "id": 268
       },
       {
         "wordEng": "indicate",
         "translateUkr": "Вказати, зазначати",
-        "know": false
+        "id": 269
       },
       {
         "wordEng": "attack",
         "translateUkr": "Атака, напад",
-        "know": true
+        "id": 270
       },
       {
         "wordEng": "pretty",
         "translateUkr": "Гарний, гарненький, милий",
-        "know": false
+        "id": 271
       },
 
       {
         "wordEng": "various",
         "translateUkr": "Відмінний, різний",
-        "know": false
+        "id": 272
       },
       {
         "wordEng": "trade",
         "translateUkr": "Торгівля",
-        "know": false
+        "id": 273
       },
       {
         "wordEng": "standard",
         "translateUkr": "Стандарт, норма",
-        "know": false
+        "id": 274
       },
       {
         "wordEng": "analysis",
         "translateUkr": "Аналіз",
-        "know": false
+        "id": 275
       },
       {
         "wordEng": "section",
         "translateUkr": "Секція, розділ",
-        "know": true
+        "id": 276
       },
       {
         "wordEng": "financial",
         "translateUkr": "Фінансовий",
-        "know": false
+        "id": 277
       },
       {
         "wordEng": "miss",
         "translateUkr": "сумувати, промахнутися, не досягти мети",
-        "know": false
+        "id": 278
       },
       {
         "wordEng": "station",
         "translateUkr": "Станція",
-        "know": true
+        "id": 279
       },
       {
         "wordEng": "indeed",
         "translateUkr": "Справді, дійсно",
-        "know": false
+        "id": 280
       },
       {
         "wordEng": "environment",
         "translateUkr": "Навколишнє середовищеб оточення",
-        "know": false
+        "id": 281
       },
       {
         "wordEng": "laugh",
         "translateUkr": "Сміятися",
-        "know": false
+        "id": 282
       },
       {
         "wordEng": "rock",
         "translateUkr": "Скеля, качання",
-        "know": false
+        "id": 283
       },
       {
         "wordEng": "enjoy",
         "translateUkr": "Насолоджуватися",
-        "know": false
+        "id": 284
       },
       {
         "wordEng": "main",
         "translateUkr": "Головний, основний",
-        "know": false
+        "id": 285
       },
       {
         "wordEng": "above",
         "translateUkr": "Вгорі, вище",
-        "know": false
+        "id": 286
       },
       {
         "wordEng": "trial",
         "translateUkr": "Випробування, випроба",
-        "know": false
+        "id": 287
       },
       {
         "wordEng": "avoid",
         "translateUkr": "Уникати",
-        "know": false
+        "id": 288
       },
       {
         "wordEng": "finish",
         "translateUkr": "Закінчувати",
-        "know": true
+        "id": 289
       },
       {
         "wordEng": "maintain",
         "translateUkr": "Підтримувати",
-        "know": false
+        "id": 290
       },
       {
         "wordEng": "direction",
         "translateUkr": "Напрямок",
-        "know": false
+        "id": 291
       },
       {
         "wordEng": "peace",
         "translateUkr": "Мир",
-        "know": false
+        "id": 292
       },
       {
         "wordEng": "election",
         "translateUkr": "Вибори, обрання",
-        "know": false
+        "id": 293
       },
       {
         "wordEng": "message",
         "translateUkr": "Повідомлення",
-        "know": true
+        "id": 294
       },
       {
         "wordEng": "benefit",
         "translateUkr": "Користь",
-        "know": false
+        "id": 295
       },
       {
         "wordEng": "glass",
         "translateUkr": "Скло, стакан",
-        "know": true
+        "id": 296
       },
       {
         "wordEng": "crime",
         "translateUkr": "Злочин, злочинність",
-        "know": false
+        "id": 297
       },
       {
         "wordEng": "design",
         "translateUkr": "Проект, дизайн",
-        "know": true
+        "id": 298
       },
       {
         "wordEng": "blue",
         "translateUkr": "Синій, блакитний",
-        "know": true
+        "id": 299
       },
       {
         "wordEng": "truth",
         "translateUkr": "Правда, істина",
-        "know": false
+        "id": 300
       },
       {
         "wordEng": "leg",
         "translateUkr": "Нога",
-        "know": true
+        "id": 301
       },
       {
         "wordEng": "guess",
         "translateUkr": "Здогадуватися, припускати",
-        "know": false
+        "id": 302
       },
       {
         "wordEng": "forget",
         "translateUkr": "Забувати",
-        "know": true
+        "id": 303
       },
       {
         "wordEng": "network",
         "translateUkr": "Мережа",
-        "know": true
+        "id": 304
       },
       {
         "wordEng": "science",
         "translateUkr": "Наука",
-        "know": false
+        "id": 305
       },
       {
         "wordEng": "seat",
         "translateUkr": "Сидіння, місце",
-        "know": false
+        "id": 306
       },
       {
         "wordEng": "expert",
         "translateUkr": "Експерт",
-        "know": true
+        "id": 307
       },
       {
         "wordEng": "imagine",
         "translateUkr": "Уявіть собі, вигадати",
-        "know": false
+        "id": 308
       },
       {
         "wordEng": "theory",
         "translateUkr": "Теорія",
-        "know": true
+        "id": 309
       },
       {
         "wordEng": "charge",
         "translateUkr": "Заряд",
-        "know": false
+        "id": 310
       },
       {
         "wordEng": "weapon",
         "translateUkr": "Зброя",
-        "know": false
+        "id": 311
       },
       {
         "wordEng": "pain",
         "translateUkr": "Біль",
-        "know": false
+        "id": 312
       },
 
       {
         "wordEng": "whose",
         "translateUkr": "Чий, чия, чиє, чиї",
-        "know": false
+        "id": 313
       },
 
       {
         "wordEng": "hiring",
         "translateUkr": "Наймання",
-        "know": false
+        "id": 314
       },
       {
         "wordEng": "belong",
         "translateUkr": "Належати",
-        "know": false
+        "id": 315
       },
       {
         "wordEng": "lay",
         "translateUkr": "Класти",
-        "know": false
+        "id": 316
       },
       {
         "wordEng": "fail",
         "translateUkr": "Невдача, провал",
-        "know": false
+        "id": 317
       },
       {
         "wordEng": "forward",
         "translateUkr": "Вперед",
-        "know": false
+        "id": 318
       },
       {
         "wordEng": "skill",
         "translateUkr": "Майстерність, вміння",
-        "know": true
+        "id": 319
       },
       {
         "wordEng": "stage",
         "translateUkr": "Стадія, етап",
-        "know": false
+        "id": 320
       },
       {
         "wordEng": "sort",
         "translateUkr": "Вид, сорт",
-        "know": true
+        "id": 321
       },
       {
         "wordEng": "strategy",
         "translateUkr": "Стратегія",
-        "know": false
+        "id": 322
       },
       {
         "wordEng": "song",
         "translateUkr": "Пісня",
-        "know": true
+        "id": 323
       },
       {
         "wordEng": "dark",
         "translateUkr": "Темний",
-        "know": true
+        "id": 324
       },
       {
         "wordEng": "prove",
         "translateUkr": "Доводити",
-        "know": false
+        "id": 325
       },
       {
         "wordEng": "claim",
         "translateUkr": "Стверджувати, вимагати",
-        "know": false
+        "id": 326
       },
       {
         "wordEng": "legal",
         "translateUkr": "Законний, юридичний",
-        "know": true
+        "id": 327
       },
       {
         "wordEng": "green",
         "translateUkr": "Зелений",
-        "know": true
+        "id": 328
       },
       {
         "wordEng": "cell",
         "translateUkr": "Клітинка ",
-        "know": true
+        "id": 329
       },
       {
         "wordEng": "spring",
         "translateUkr": "Весна",
-        "know": true
+        "id": 330
       },
       {
         "wordEng": "tonight",
         "translateUkr": "Сьогодні увечорі",
-        "know": true
+        "id": 331
       },
       {
         "wordEng": "impact",
         "translateUkr": "Вплив, міцно закріпляти",
-        "know": false
+        "id": 332
       },
       {
         "wordEng": "popular",
         "translateUkr": "Популярний",
-        "know": true
+        "id": 333
       },
       {
         "wordEng": "employee",
         "translateUkr": "Співробітник, працівник",
-        "know": false
+        "id": 334
       },
       {
         "wordEng": "apply",
         "translateUkr": "Застосовувати",
-        "know": false
+        "id": 335
       },
       {
         "wordEng": "book",
         "translateUkr": "Книга",
-        "know": true
+        "id": 336
       },
       {
         "wordEng": "tree",
         "translateUkr": "Дерево",
-        "know": true
+        "id": 337
       },
       {
         "wordEng": "do",
         "translateUkr": "Робити",
-        "know": true
+        "id": 338
       },
       {
         "wordEng": "go",
         "translateUkr": "Йти, ходити",
-        "know": true
+        "id": 339
       },
       {
         "wordEng": "all",
         "translateUkr": "Все",
-        "know": true
+        "id": 340
       },
       {
         "wordEng": "time",
         "translateUkr": "Час",
-        "know": true
+        "id": 341
       },
       {
         "wordEng": "which",
         "translateUkr": "Котрий, який",
-        "know": true
+        "id": 342
       },
       {
         "wordEng": "now",
         "translateUkr": "Зараз",
-        "know": true
+        "id": 343
       },
       {
         "wordEng": "more",
         "translateUkr": "Більше",
-        "know": true
+        "id": 344
       },
       {
         "wordEng": "new",
         "translateUkr": "Новий",
-        "know": true
+        "id": 345
       },
       {
         "wordEng": "man",
         "translateUkr": "Чоловік, людина",
-        "know": true
+        "id": 346
       },
       {
         "wordEng": "back",
         "translateUkr": "Спина, назад",
-        "know": true
+        "id": 347
       },
       {
         "wordEng": "child",
         "translateUkr": "Дитина",
-        "know": true
+        "id": 348
       },
       {
         "wordEng": "world",
         "translateUkr": "Світ",
-        "know": true
+        "id": 349
       },
       {
         "wordEng": "ask",
         "translateUkr": "Питати, просити",
-        "know": true
+        "id": 350
       },
       {
         "wordEng": "group",
         "translateUkr": "Група",
-        "know": true
+        "id": 351
       },
       {
         "wordEng": "student",
         "translateUkr": "Студент",
-        "know": true
+        "id": 352
       },
       {
         "wordEng": "between",
         "translateUkr": "Між",
-        "know": true
+        "id": 353
       },
       {
         "wordEng": "car",
         "translateUkr": "Автомобіль",
-        "know": true
+        "id": 354
       },
       {
         "wordEng": "be",
         "translateUkr": "Бути",
-        "know": true
+        "id": 355
       },
       {
         "wordEng": "people",
         "translateUkr": "Люди",
-        "know": true
+        "id": 356
       },
       {
         "wordEng": "like",
         "translateUkr": "Подобатися, любити",
-        "know": true
+        "id": 357
       },
       {
         "wordEng": "want",
         "translateUkr": "Хотіти",
-        "know": true
+        "id": 358
       },
       {
         "wordEng": "can",
         "translateUkr": "Могти",
-        "know": true
+        "id": 359
       },
       {
         "wordEng": "good",
         "translateUkr": "Хороший",
-        "know": true
+        "id": 360
       },
       {
         "wordEng": "work",
         "translateUkr": "Робота, робити",
-        "know": true
+        "id": 361
       },
       {
         "wordEng": "school",
         "translateUkr": "Школа",
-        "know": true
+        "id": 362
       },
       {
         "wordEng": "need",
         "translateUkr": "Потребувати, потреба",
-        "know": true
+        "id": 363
       },
       {
         "wordEng": "begin",
         "translateUkr": "Починати, починатися",
-        "know": true
+        "id": 364
       },
       {
         "wordEng": "but",
         "translateUkr": "Але",
-        "know": true
+        "id": 365
       },
       {
         "wordEng": "day",
         "translateUkr": "День",
-        "know": true
+        "id": 366
       },
       {
         "wordEng": "woman",
         "translateUkr": "Жінка",
-        "know": true
+        "id": 367
       },
       {
         "wordEng": "down",
         "translateUkr": "Вниз",
-        "know": true
+        "id": 368
       },
       {
         "wordEng": "old",
         "translateUkr": "Старий",
-        "know": true
+        "id": 369
       },
       {
         "wordEng": "point",
         "translateUkr": "Крапка",
-        "know": true
+        "id": 370
       },
       {
         "wordEng": "have",
         "translateUkr": "Мати",
-        "know": true
+        "id": 371
       },
       {
         "wordEng": "or",
         "translateUkr": "Або",
-        "know": true
+        "id": 372
       },
       {
         "wordEng": "country",
         "translateUkr": "Країна",
-        "know": true
+        "id": 373
       },
       {
         "wordEng": "if",
         "translateUkr": "Якщо",
-        "know": true
+        "id": 374
       },
       {
         "wordEng": "up",
         "translateUkr": "Догори",
-        "know": true
+        "id": 375
       },
       {
         "wordEng": "give",
         "translateUkr": "Давати",
-        "know": true
+        "id": 376
       },
       {
         "wordEng": "last",
         "translateUkr": "Останній",
-        "know": true
+        "id": 377
       },
       {
         "wordEng": "help",
         "translateUkr": "Допомога",
-        "know": true
+        "id": 378
       },
       {
         "wordEng": "hand",
         "translateUkr": "Рука",
-        "know": true
+        "id": 379
       },
       {
         "wordEng": "each",
         "translateUkr": "Кожний",
-        "know": true
+        "id": 380
       },
       {
         "wordEng": "number",
         "translateUkr": "Число, номер",
-        "know": true
+        "id": 381
       },
       {
         "wordEng": "write",
         "translateUkr": "Писати",
-        "know": true
+        "id": 382
       },
       {
         "wordEng": "young",
         "translateUkr": "Молодий",
-        "know": true
+        "id": 383
       },
       {
         "wordEng": "black",
         "translateUkr": "Чорний",
-        "know": true
+        "id": 384
       },
       {
         "wordEng": "yes",
         "translateUkr": "Так",
-        "know": true
+        "id": 385
       },
       {
         "wordEng": "friend",
         "translateUkr": "Друг",
-        "know": true
+        "id": 386
       },
       {
         "wordEng": "year",
         "translateUkr": "Рік",
-        "know": true
+        "id": 387
       },
       {
         "wordEng": "line",
         "translateUkr": "Лінія",
-        "know": true
+        "id": 388
       },
       {
         "wordEng": "show",
         "translateUkr": "Показувати",
-        "know": true
+        "id": 389
       },
       {
         "wordEng": "play",
         "translateUkr": "Грати",
-        "know": true
+        "id": 390
       },
       {
         "wordEng": "right",
         "translateUkr": "Правий, правильний",
-        "know": true
+        "id": 391
       },
       {
         "wordEng": "next",
         "translateUkr": "Наступний",
-        "know": true
+        "id": 392
       },
       {
         "wordEng": "mother",
         "translateUkr": "Матір",
-        "know": true
+        "id": 393
       },
       {
         "wordEng": "fact",
         "translateUkr": "Факт",
-        "know": true
+        "id": 394
       },
       {
         "wordEng": "long",
         "translateUkr": "Довгий",
-        "know": true
+        "id": 395
       },
       {
         "wordEng": "important",
         "translateUkr": "Важливий",
-        "know": true
+        "id": 396
       },
       {
         "wordEng": "end",
         "translateUkr": "Кінець",
-        "know": true
+        "id": 397
       },
       {
         "wordEng": "week",
         "translateUkr": "Тиждень",
-        "know": true
+        "id": 398
       },
       {
         "wordEng": "program",
         "translateUkr": "Програма",
-        "know": true
+        "id": 399
       },
       {
         "wordEng": "government",
         "translateUkr": "Уряд",
-        "know": true
+        "id": 400
       },
       {
         "wordEng": "month",
         "translateUkr": "Місяць",
-        "know": true
+        "id": 401
       },
       {
         "wordEng": "job",
         "translateUkr": "Робота, праця, служба",
-        "know": true
+        "id": 402
       },
       {
         "wordEng": "city",
         "translateUkr": "Місто (велике)",
-        "know": true
+        "id": 403
       },
       {
         "wordEng": "problem",
         "translateUkr": "Проблема, задача",
-        "know": true
+        "id": 404
       },
       {
         "wordEng": "water",
         "translateUkr": "Вода",
-        "know": true
+        "id": 405
       },
       {
         "wordEng": "boy",
         "translateUkr": "Хлочпець",
-        "know": true
+        "id": 406
       },
       {
         "wordEng": "person",
         "translateUkr": "Людина, персона",
-        "know": true
+        "id": 407
       },
       {
         "wordEng": "body",
         "translateUkr": "Тіло",
-        "know": true
+        "id": 408
       },
       {
         "wordEng": "art",
         "translateUkr": "Мистецтво",
-        "know": true
+        "id": 409
       },
       {
         "wordEng": "girl",
         "translateUkr": "Дівчина",
-        "know": true
+        "id": 410
       },
       {
         "wordEng": "teacher",
         "translateUkr": "Вчитель",
-        "know": true
+        "id": 411
       },
       {
         "wordEng": "stop",
         "translateUkr": "Зупинятися, зупинка",
-        "know": true
+        "id": 412
       },
       {
         "wordEng": "music",
         "translateUkr": "Музика",
-        "know": true
+        "id": 413
       },
       {
         "wordEng": "foot",
         "translateUkr": "Нога, стопа",
-        "know": true
+        "id": 414
       },
       {
         "wordEng": "food",
         "translateUkr": "Їжа",
-        "know": true
+        "id": 415
       },
       {
         "wordEng": "town",
         "translateUkr": "Місто (маленьке)",
-        "know": true
+        "id": 416
       },
       {
         "wordEng": "paper",
         "translateUkr": "Папір",
-        "know": true
+        "id": 417
       },
       {
         "wordEng": "center",
         "translateUkr": "Центр",
-        "know": true
+        "id": 418
       },
       {
         "wordEng": "field",
         "translateUkr": "Поле, ділянка, лан",
-        "know": true
+        "id": 419
       },
       {
         "wordEng": "sometimes",
         "translateUkr": "Іноді",
-        "know": true
+        "id": 420
       },
       {
         "wordEng": "role",
         "translateUkr": "Роль",
-        "know": true
+        "id": 421
       },
       {
         "wordEng": "light",
         "translateUkr": "Світло",
-        "know": true
+        "id": 422
       },
       {
         "wordEng": "mind",
         "translateUkr": "Розум",
-        "know": true
+        "id": 423
       },
       {
         "wordEng": "price",
         "translateUkr": "Ціна",
-        "know": true
+        "id": 424
       },
       {
         "wordEng": "hope",
         "translateUkr": "Надія",
-        "know": true
+        "id": 425
       },
       {
         "wordEng": "join",
         "translateUkr": "З'єднувати, приєднувати",
-        "know": true
+        "id": 426
       },
       {
         "wordEng": "player",
         "translateUkr": "Гравець",
-        "know": true
+        "id": 427
       },
       {
         "wordEng": "strong",
         "translateUkr": "Сильний",
-        "know": true
+        "id": 428
       },
       {
         "wordEng": "voice",
         "translateUkr": "Голос",
-        "know": true
+        "id": 429
       },
       {
         "wordEng": "road",
         "translateUkr": "Дорога",
-        "know": true
+        "id": 430
       },
       {
         "wordEng": "never",
         "translateUkr": "Ніколи",
-        "know": true
+        "id": 431
       },
       {
         "wordEng": "much",
         "translateUkr": "Багато(незлічуване)",
-        "know": true
+        "id": 432
       },
 
       {
         "wordEng": "say",
         "translateUkr": "Сказати, говорити",
-        "know": true
+        "id": 433
       },
 
       {
         "wordEng": "make",
         "translateUkr": "Робити, виробляти",
-        "know": true
+        "id": 434
       },
       {
         "wordEng": "there",
         "translateUkr": "Там, туди",
-        "know": true
+        "id": 435
       },
 
       {
         "wordEng": "because",
         "translateUkr": "Тому що",
-        "know": true
+        "id": 436
       },
       {
         "wordEng": "find",
         "translateUkr": "Знаходити",
-        "know": true
+        "id": 437
       },
       {
         "wordEng": "only",
         "translateUkr": "Лише",
-        "know": true
+        "id": 438
       },
       {
         "wordEng": "family",
         "translateUkr": "Сім'я",
-        "know": true
+        "id": 439
       },
       {
         "wordEng": "let",
         "translateUkr": "Дозволяти",
-        "know": true
+        "id": 440
       },
 
       {
         "wordEng": "who",
         "translateUkr": "Хто, котрий",
-        "know": true
+        "id": 441
       },
       {
         "wordEng": "about",
         "translateUkr": "Про, біля",
-        "know": true
+        "id": 442
       },
       {
         "wordEng": "take",
         "translateUkr": "Брати",
-        "know": true
+        "id": 443
       },
       {
         "wordEng": "other",
         "translateUkr": "Інший",
-        "know": true
+        "id": 444
       },
       {
         "wordEng": "way",
         "translateUkr": "Шлях, дорога, спосіб",
-        "know": true
+        "id": 445
       },
 
       {
         "wordEng": "here",
         "translateUkr": "Тут",
-        "know": true
+        "id": 446
       },
       {
         "wordEng": "tell",
         "translateUkr": "Говорити, розповідати",
-        "know": true
+        "id": 447
       },
       {
         "wordEng": "mean",
         "translateUkr": "Означати",
-        "know": true
+        "id": 448
       },
       {
         "wordEng": "great",
         "translateUkr": "Великий",
-        "know": true
+        "id": 449
       },
       {
         "wordEng": "please",
         "translateUkr": "Будь ласка",
-        "know": true
+        "id": 450
       },
 
       {
         "wordEng": "get",
         "translateUkr": "Отримати, діставати",
-        "know": true
+        "id": 451
       },
       {
         "wordEng": "know",
         "translateUkr": "Знати",
-        "know": true
+        "id": 452
       },
       {
         "wordEng": "think",
         "translateUkr": "Думати",
-        "know": true
+        "id": 453
       },
       {
         "wordEng": "see",
         "translateUkr": "Бачити",
-        "know": true
+        "id": 454
       },
       {
         "wordEng": "how",
         "translateUkr": "Як",
-        "know": true
+        "id": 455
       },
       {
         "wordEng": "use",
         "translateUkr": "Використовувати",
-        "know": true
+        "id": 456
       },
       {
         "wordEng": "thing",
         "translateUkr": "Річ, предмет",
-        "know": true
+        "id": 457
       },
       {
         "wordEng": "after",
         "translateUkr": "Після",
-        "know": true
+        "id": 458
       },
       {
         "wordEng": "try",
         "translateUkr": "Пробувати, намагатися",
-        "know": true
+        "id": 459
       },
       {
         "wordEng": "feel",
         "translateUkr": "Відчувати",
-        "know": true
+        "id": 460
       },
       {
         "wordEng": "high",
         "translateUkr": "Високий",
-        "know": true
+        "id": 461
       },
       {
         "wordEng": "leave",
         "translateUkr": "Залишати, покидати",
-        "know": true
+        "id": 462
       },
       {
         "wordEng": "keep",
         "translateUkr": "Тримати, зберігати",
-        "know": true
+        "id": 463
       },
       {
         "wordEng": "why",
         "translateUkr": "Чому",
-        "know": true
+        "id": 464
       },
       {
         "wordEng": "with",
         "translateUkr": "З",
-        "know": true
+        "id": 465
       },
       {
         "wordEng": "what",
         "translateUkr": "Що, який",
-        "know": true
+        "id": 466
       },
 
       {
         "wordEng": "when",
         "translateUkr": "Коли",
-        "know": true
+        "id": 467
       },
       {
         "wordEng": "come",
         "translateUkr": "Приходити",
-        "know": true
+        "id": 468
       },
       {
         "wordEng": "then",
         "translateUkr": "Тоді, потім",
-        "know": true
+        "id": 469
       },
       {
         "wordEng": "also",
         "translateUkr": "Також",
-        "know": true
+        "id": 470
       },
       {
         "wordEng": "no",
         "translateUkr": "Ні, немає",
-        "know": true
+        "id": 471
       },
       {
         "wordEng": "life",
         "translateUkr": "Життя",
-        "know": true
+        "id": 472
       },
       {
         "wordEng": "call",
         "translateUkr": "Наазивати, звонити",
-        "know": true
+        "id": 473
       },
 
       {
         "wordEng": "state",
         "translateUkr": "Стан",
-        "know": true
+        "id": 474
       },
       {
         "wordEng": "put",
         "translateUkr": "Ставити, класти",
-        "know": true
+        "id": 475
       },
       {
         "wordEng": "big",
         "translateUkr": "Великий",
-        "know": true
+        "id": 476
       },
 
       {
         "wordEng": "many",
         "translateUkr": "Багато (злічуване)",
-        "know": true
+        "id": 477
       },
       {
         "wordEng": "talk",
         "translateUkr": "Розмовляти, розмова",
-        "know": true
+        "id": 478
       },
       {
         "wordEng": "must",
         "translateUkr": "Повинен",
-        "know": true
+        "id": 479
       },
       {
         "wordEng": "meet",
         "translateUkr": "Зустрічати, зустріч",
-        "know": true
+        "id": 480
       },
 
       {
         "wordEng": "where",
         "translateUkr": "Ду, куди",
-        "know": true
+        "id": 481
       },
       {
         "wordEng": "look",
         "translateUkr": "Дивитися",
-        "know": true
+        "id": 482
       },
       {
         "wordEng": "eye",
         "translateUkr": "Око",
-        "know": true
+        "id": 483
       },
       {
         "wordEng": "turn",
         "translateUkr": "Поворот, повертати",
-        "know": true
+        "id": 484
       },
       {
         "wordEng": "part",
         "translateUkr": "Частина, розділ",
-        "know": true
+        "id": 485
       },
 
       {
         "wordEng": "move",
         "translateUkr": "Рухати",
-        "know": true
+        "id": 486
       },
       {
         "wordEng": "without",
         "translateUkr": "Без",
-        "know": true
+        "id": 487
       },
       {
         "wordEng": "under",
         "translateUkr": "Під",
-        "know": true
+        "id": 488
       },
       {
         "wordEng": "area",
         "translateUkr": "Площа, область",
-        "know": true
+        "id": 489
       },
 
       {
         "wordEng": "kind",
         "translateUkr": "Рід, вид",
-        "know": true
+        "id": 490
       },
       {
         "wordEng": "both",
         "translateUkr": "Обидва",
-        "know": true
+        "id": 491
       },
       {
         "wordEng": "father",
         "translateUkr": "Батько",
-        "know": true
+        "id": 492
       },
       {
         "wordEng": "hour",
         "translateUkr": "Година",
-        "know": true
+        "id": 493
       },
       {
         "wordEng": "member",
         "translateUkr": "Член, учасник",
-        "know": true
+        "id": 494
       },
       {
         "wordEng": "company",
         "translateUkr": "Компанія",
-        "know": true
+        "id": 495
       },
       {
         "wordEng": "hear",
         "translateUkr": "Слухати, чути",
-        "know": true
+        "id": 496
       },
       {
         "wordEng": "run",
         "translateUkr": "Бігти",
-        "know": true
+        "id": 497
       },
       {
         "wordEng": "night",
         "translateUkr": "Ніч",
-        "know": true
+        "id": 498
       },
       {
         "wordEng": "today",
         "translateUkr": "Сьогодні",
-        "know": true
+        "id": 499
       },
       {
         "wordEng": "before",
         "translateUkr": "Перед",
-        "know": true
+        "id": 500
       },
 
       {
         "wordEng": "money",
         "translateUkr": "Гроші",
-        "know": true
+        "id": 501
       },
       {
         "wordEng": "head",
         "translateUkr": "Голова",
-        "know": true
+        "id": 502
       },
       {
         "wordEng": "little",
         "translateUkr": "Мало",
-        "know": true
+        "id": 503
       },
       {
         "wordEng": "sit",
         "translateUkr": "Сидіти",
-        "know": true
+        "id": 504
       },
       {
         "wordEng": "game",
         "translateUkr": "Гра",
-        "know": true
+        "id": 505
       },
       {
         "wordEng": "stand",
         "translateUkr": "Стояти",
-        "know": true
+        "id": 506
       },
       {
         "wordEng": "pay",
         "translateUkr": "Платити",
-        "know": true
+        "id": 507
       },
       {
         "wordEng": "start",
         "translateUkr": "Початок, починати",
-        "know": true
+        "id": 508
       },
       {
         "wordEng": "place",
         "translateUkr": "Місце, місцина",
-        "know": true
+        "id": 509
       },
       {
         "wordEng": "system",
         "translateUkr": "Система",
-        "know": true
+        "id": 510
       },
       {
         "wordEng": "question",
         "translateUkr": "Питання",
-        "know": true
+        "id": 511
       },
       {
         "wordEng": "small",
         "translateUkr": "Малий, дрібний",
-        "know": true
+        "id": 512
       },
       {
         "wordEng": "live",
         "translateUkr": "Жити",
-        "know": true
+        "id": 513
       },
       {
         "wordEng": "bring",
         "translateUkr": "Приносити",
-        "know": true
+        "id": 514
       },
       {
         "wordEng": "large",
         "translateUkr": "Великий, крупний",
-        "know": true
+        "id": 515
       },
       {
         "wordEng": "room",
         "translateUkr": "Кімната",
-        "know": true
+        "id": 516
       },
       {
         "wordEng": "story",
         "translateUkr": "Розповідь, історія",
-        "know": true
+        "id": 517
       },
       {
         "wordEng": "study",
         "translateUkr": "Вивчати, досліджувати",
-        "know": true
+        "id": 518
       },
       {
         "wordEng": "business",
         "translateUkr": "Бізнес, справа",
-        "know": true
+        "id": 519
       },
       {
         "wordEng": "house",
         "translateUkr": "Дім, будинок",
-        "know": true
+        "id": 520
       },
       {
         "wordEng": "around",
         "translateUkr": "Навколо",
-        "know": true
+        "id": 521
       },
       {
         "wordEng": "often",
         "translateUkr": "Часто",
-        "know": true
+        "id": 522
       },
       {
         "wordEng": "bad",
         "translateUkr": "Паганий",
-        "know": true
+        "id": 523
       },
       {
         "wordEng": "law",
         "translateUkr": "Закон, право",
-        "know": true
+        "id": 524
       },
       {
         "wordEng": "change",
         "translateUkr": "Міняти, змінювати",
-        "know": true
+        "id": 525
       },
       {
         "wordEng": "lead",
         "translateUkr": "Керувати, вести",
-        "know": true
+        "id": 526
       },
       {
         "wordEng": "health",
         "translateUkr": "Здоров'я",
-        "know": true
+        "id": 527
       },
       {
         "wordEng": "history",
         "translateUkr": "Історія",
-        "know": true
+        "id": 528
       },
       {
         "wordEng": "open",
         "translateUkr": "Відкривати",
-        "know": true
+        "id": 529
       },
       {
         "wordEng": "win",
         "translateUkr": "Вигравати",
-        "know": true
+        "id": 530
       },
       {
         "wordEng": "moment",
         "translateUkr": "Момент, мить",
-        "know": true
+        "id": 531
       },
       {
         "wordEng": "second",
         "translateUkr": "Секунда",
-        "know": true
+        "id": 532
       },
       {
         "wordEng": "love",
         "translateUkr": "Любити",
-        "know": true
+        "id": 533
       },
       {
         "wordEng": "plan",
         "translateUkr": "План",
-        "know": true
+        "id": 534
       },
       {
         "wordEng": "level",
         "translateUkr": "Рівень",
-        "know": true
+        "id": 535
       },
       {
         "wordEng": "white",
         "translateUkr": "Білий",
-        "know": true
+        "id": 536
       },
       {
         "wordEng": "team",
         "translateUkr": "Команда",
-        "know": true
+        "id": 537
       },
       {
         "wordEng": "kid",
         "translateUkr": "Дитина",
-        "know": true
+        "id": 538
       },
       {
         "wordEng": "add",
         "translateUkr": "Додавати",
-        "know": true
+        "id": 539
       },
 
       {
         "wordEng": "party",
         "translateUkr": "Вечірка",
-        "know": true
+        "id": 540
       },
       {
         "wordEng": "morning",
         "translateUkr": "Ранок",
-        "know": true
+        "id": 541
       },
       {
         "wordEng": "research",
         "translateUkr": "Дослідження",
-        "know": true
+        "id": 542
       },
       {
         "wordEng": "air",
         "translateUkr": "Повітря",
-        "know": true
+        "id": 543
       },
       {
         "wordEng": "education",
         "translateUkr": "Освіта",
-        "know": true
+        "id": 544
       },
 
       {
         "wordEng": "process",
         "translateUkr": "Процес",
-        "know": true
+        "id": 545
       },
       {
         "wordEng": "buy",
         "translateUkr": "Купувати",
-        "know": true
+        "id": 546
       },
       {
         "wordEng": "market",
         "translateUkr": "Ринок",
-        "know": true
+        "id": 547
       },
       {
         "wordEng": "build",
         "translateUkr": "Будувати",
-        "know": true
+        "id": 548
       },
       {
         "wordEng": "cut",
         "translateUkr": "Різати",
-        "know": true
+        "id": 549
       },
       {
         "wordEng": "later",
         "translateUkr": "Пізніше",
-        "know": true
+        "id": 550
       },
       {
         "wordEng": "minute",
         "translateUkr": "Хвилина",
-        "know": true
+        "id": 551
       },
 
       {
         "wordEng": "understand",
         "translateUkr": "Розуміти",
-        "know": true
+        "id": 552
       },
 
       {
         "wordEng": "speak",
         "translateUkr": "Говорити",
-        "know": true
+        "id": 553
       },
       {
         "wordEng": "office",
         "translateUkr": "Офіс",
-        "know": true
+        "id": 554
       },
       {
         "wordEng": "walk",
         "translateUkr": "Ходити пішки, гуляти",
-        "know": true
+        "id": 555
       },
       {
         "wordEng": "die",
         "translateUkr": "Помирати",
-        "know": true
+        "id": 556
       },
       {
         "wordEng": "stay",
         "translateUkr": "Залишатися",
-        "know": true
+        "id": 557
       },
       {
         "wordEng": "interest",
         "translateUkr": "Інтерес",
-        "know": true
+        "id": 558
       },
       {
         "wordEng": "learn",
         "translateUkr": "Вчитися",
-        "know": true
+        "id": 559
       },
       {
         "wordEng": "information",
         "translateUkr": "Інформація",
-        "know": true
+        "id": 560
       },
       {
         "wordEng": "watch",
         "translateUkr": "Дивитися, спостерігати",
-        "know": true
+        "id": 561
       },
       {
         "wordEng": "face",
         "translateUkr": "Лице",
-        "know": true
+        "id": 562
       },
       {
         "wordEng": "read",
         "translateUkr": "Читати",
-        "know": true
+        "id": 563
       },
       {
         "wordEng": "age",
         "translateUkr": "Вік",
-        "know": true
+        "id": 564
       },
       {
         "wordEng": "name",
         "translateUkr": "Ім'я",
-        "know": true
+        "id": 565
       },
       {
         "wordEng": "create",
         "translateUkr": "Створювати, творити",
-        "know": true
+        "id": 566
       },
       {
         "wordEng": "door",
         "translateUkr": "Двері",
-        "know": true
+        "id": 567
       },
       {
         "wordEng": "war",
         "translateUkr": "Війна",
-        "know": true
+        "id": 568
       },
       {
         "wordEng": "result",
         "translateUkr": "Результат",
-        "know": true
+        "id": 569
       },
       {
         "wordEng": "course",
         "translateUkr": "Курс",
-        "know": true
+        "id": 570
       },
       {
         "wordEng": "international",
         "translateUkr": "Міжнародний",
-        "know": true
+        "id": 571
       },
       {
         "wordEng": "building",
         "translateUkr": "Будівля",
-        "know": true
+        "id": 572
       },
       {
         "wordEng": "season",
         "translateUkr": "Сезон, пора року",
-        "know": true
+        "id": 573
       },
       {
         "wordEng": "star",
         "translateUkr": "Зірка",
-        "know": true
+        "id": 574
       },
       {
         "wordEng": "wife, wives",
         "translateUkr": "Дружина, дружини",
-        "know": true
+        "id": 575
       },
       {
         "wordEng": "drive",
         "translateUkr": "Водити, їздити",
-        "know": true
+        "id": 576
       },
       {
         "wordEng": "space",
         "translateUkr": "Простір, космос",
-        "know": true
+        "id": 577
       },
       {
         "wordEng": "project",
         "translateUkr": "Проект",
-        "know": true
+        "id": 578
       },
       {
         "wordEng": "table",
         "translateUkr": "Стіл, таблиця",
-        "know": true
+        "id": 579
       },
       {
         "wordEng": "local",
         "translateUkr": "Локальний, місцевий",
-        "know": true
+        "id": 580
       },
       {
         "wordEng": "class",
         "translateUkr": "Клас",
-        "know": true
+        "id": 581
       },
       {
         "wordEng": "late",
         "translateUkr": "Пізно",
-        "know": true
+        "id": 582
       },
       {
         "wordEng": "sell",
         "translateUkr": "Продавати",
-        "know": true
+        "id": 583
       },
       {
         "wordEng": "arm",
         "translateUkr": "Рука",
-        "know": true
+        "id": 584
       },
       {
         "wordEng": "thank",
         "translateUkr": "Спасибі, дякувати",
-        "know": true
+        "id": 585
       },
       {
         "wordEng": "full",
         "translateUkr": "Повний, цілий",
-        "know": true
+        "id": 586
       },
       {
         "wordEng": "tax",
         "translateUkr": "Податок",
-        "know": true
+        "id": 587
       },
       {
         "wordEng": "kill",
         "translateUkr": "Вбивати",
-        "know": true
+        "id": 588
       },
       {
         "wordEng": "control",
         "translateUkr": "Контроль",
-        "know": true
+        "id": 589
       },
       {
         "wordEng": "hard",
         "translateUkr": "Твердий, важкий",
-        "know": true
+        "id": 590
       },
       {
         "wordEng": "leader",
         "translateUkr": "Лідер",
-        "know": true
+        "id": 591
       },
       {
         "wordEng": "free",
         "translateUkr": "Вільний, безкоштовний",
-        "know": true
+        "id": 592
       },
       {
         "wordEng": "son",
         "translateUkr": "Син",
-        "know": true
+        "id": 593
       },
       {
         "wordEng": "true",
         "translateUkr": "Істинний, правда,  правильний ",
-        "know": true
+        "id": 594
       },
       {
         "wordEng": "model",
         "translateUkr": "Модель",
-        "know": true
+        "id": 595
       },
       {
         "wordEng": "form",
         "translateUkr": "Форма, бланк",
-        "know": true
+        "id": 596
       },
       {
         "wordEng": "eat",
         "translateUkr": "Їсти",
-        "know": true
+        "id": 597
       },
       {
         "wordEng": "easy",
         "translateUkr": "Легкий",
-        "know": true
+        "id": 598
       },
       {
         "wordEng": "phone",
         "translateUkr": "Телефон",
-        "know": true
+        "id": 599
       },
       {
         "wordEng": "clear",
         "translateUkr": "Чистий, ясний",
-        "know": true
+        "id": 600
       },
       {
         "wordEng": "step",
         "translateUkr": "Шаг, сходинка",
-        "know": true
+        "id": 601
       },
       {
         "wordEng": "draw",
         "translateUkr": "Малювати",
-        "know": true
+        "id": 602
       },
       {
         "wordEng": "culture",
         "translateUkr": "Культура",
-        "know": true
+        "id": 603
       },
       {
         "wordEng": "period",
         "translateUkr": "Період",
-        "know": true
+        "id": 604
       },
       {
         "wordEng": "floor",
         "translateUkr": "Підлога, поверх",
-        "know": true
+        "id": 605
       },
       {
         "wordEng": "hospital",
         "translateUkr": "Лікарня",
-        "know": true
+        "id": 606
       },
       {
         "wordEng": "future",
         "translateUkr": "Майбутнє",
-        "know": true
+        "id": 607
       },
       {
         "wordEng": "teach",
         "translateUkr": "Вчити, навчати",
-        "know": true
+        "id": 608
       },
       {
         "wordEng": "product",
         "translateUkr": "Продукт",
-        "know": true
+        "id": 609
       },
       {
         "wordEng": "news",
         "translateUkr": "Новина",
-        "know": true
+        "id": 610
       },
       {
         "wordEng": "personal",
         "translateUkr": "Особистий, персональний",
-        "know": true
+        "id": 611
       },
       {
         "wordEng": "baby",
         "translateUkr": "Дитина, немовля",
-        "know": true
+        "id": 612
       },
       {
         "wordEng": "organization",
         "translateUkr": "Організація",
-        "know": true
+        "id": 613
       },
       {
         "wordEng": "window",
         "translateUkr": "Вікно",
-        "know": true
+        "id": 614
       },
       {
         "wordEng": "summer",
         "translateUkr": "Літо",
-        "know": true
+        "id": 615
       },
       {
         "wordEng": "short",
         "translateUkr": "Короткий",
-        "know": true
+        "id": 616
       },
       {
         "wordEng": "rule",
         "translateUkr": "Правило",
-        "know": true
+        "id": 617
       },
       {
         "wordEng": "close",
         "translateUkr": "Закривати",
-        "know": true
+        "id": 618
       },
       {
         "wordEng": "oil",
         "translateUkr": "Масло, олія, нафтовий",
-        "know": true
+        "id": 619
       },
       {
         "wordEng": "industry",
         "translateUkr": "Промисловість, індустрія",
-        "know": true
+        "id": 620
       },
       {
         "wordEng": "doctor",
         "translateUkr": "Лікар",
-        "know": true
+        "id": 621
       },
       {
         "wordEng": "computer",
         "translateUkr": "Комп'ютер",
-        "know": true
+        "id": 622
       },
       {
         "wordEng": "difficult",
         "translateUkr": "Важкий",
-        "know": true
+        "id": 623
       },
       {
         "wordEng": "brother",
         "translateUkr": "Брат",
-        "know": true
+        "id": 624
       },
       {
         "wordEng": "subject",
         "translateUkr": "Предмет",
-        "know": true
+        "id": 625
       },
       {
         "wordEng": "half",
         "translateUkr": "Половина",
-        "know": true
+        "id": 626
       },
       {
         "wordEng": "street",
         "translateUkr": "Вулиця",
-        "know": true
+        "id": 627
       },
       {
         "wordEng": "wall",
         "translateUkr": "Стіна",
-        "know": true
+        "id": 628
       },
       {
         "wordEng": "movie",
         "translateUkr": "Фільм",
-        "know": true
+        "id": 629
       },
       {
         "wordEng": "technology",
         "translateUkr": "Технологія",
-        "know": true
+        "id": 630
       },
       {
         "wordEng": "type",
         "translateUkr": "Тип",
-        "know": true
+        "id": 631
       },
       {
         "wordEng": "source",
         "translateUkr": "Джерело",
-        "know": true
+        "id": 632
       },
       {
         "wordEng": "hair",
         "translateUkr": "Волосся",
-        "know": true
+        "id": 633
       },
       {
         "wordEng": "listen",
         "translateUkr": "Слухати",
-        "know": true
+        "id": 634
       },
       {
         "wordEng": "energy",
         "translateUkr": "Енергія",
-        "know": true
+        "id": 635
       },
       {
         "wordEng": "red",
         "translateUkr": "Червоний",
-        "know": true
+        "id": 636
       },
       {
         "wordEng": "picture",
         "translateUkr": "Картина, малюнок",
-        "know": true
+        "id": 637
       },
       {
         "wordEng": "century",
         "translateUkr": "Сторіччя, століття",
-        "know": true
+        "id": 638
       },
       {
         "wordEng": "husband",
         "translateUkr": "Чоловік(у дружини)",
-        "know": true
+        "id": 639
       },
       {
         "wordEng": "fire",
         "translateUkr": "Вогонь, пожежа",
-        "know": true
+        "id": 640
       },
       {
         "wordEng": "sport",
         "translateUkr": "Спорт",
-        "know": true
+        "id": 641
       },
       {
         "wordEng": "west",
         "translateUkr": "Захід",
-        "know": true
+        "id": 642
       },
       {
         "wordEng": "past",
         "translateUkr": "Минулий",
-        "know": true
+        "id": 643
       },
       {
         "wordEng": "fill",
         "translateUkr": "Заповнювати, наповнювати",
-        "know": true
+        "id": 644
       },
       {
         "wordEng": "blood",
         "translateUkr": "Кров",
-        "know": true
+        "id": 645
       },
       {
         "wordEng": "cup",
         "translateUkr": "Чашка",
-        "know": true
+        "id": 646
       },
       {
         "wordEng": "region",
         "translateUkr": "Регіон, область",
-        "know": true
+        "id": 647
       },
       {
         "wordEng": "image",
         "translateUkr": "Зображення",
-        "know": true
+        "id": 648
       },
       {
         "wordEng": "hot",
         "translateUkr": "Гарячий",
-        "know": true
+        "id": 649
       },
       {
         "wordEng": "dog",
         "translateUkr": "Собака",
-        "know": true
+        "id": 650
       },
       {
         "wordEng": "television",
         "translateUkr": "Телебачення",
-        "know": true
+        "id": 651
       },
       {
         "wordEng": "bed",
         "translateUkr": "Ліжко",
-        "know": true
+        "id": 652
       },
       {
         "wordEng": "focus",
         "translateUkr": "Фокус",
-        "know": true
+        "id": 653
       },
       {
         "wordEng": "push",
         "translateUkr": "Штовхати",
-        "know": true
+        "id": 654
       },
       {
         "wordEng": "page",
         "translateUkr": "Сторінка",
-        "know": true
+        "id": 655
       },
       {
         "wordEng": "natural",
         "translateUkr": "Природній, нетуральний",
-        "know": true
+        "id": 656
       },
       {
         "wordEng": "language",
         "translateUkr": "Мова",
-        "know": true
+        "id": 657
       },
       {
         "wordEng": "animal",
         "translateUkr": "Тварина",
-        "know": true
+        "id": 658
       },
       {
         "wordEng": "east",
         "translateUkr": "Схід",
-        "know": true
+        "id": 659
       },
       {
         "wordEng": "left",
         "translateUkr": "Лівий",
-        "know": true
+        "id": 660
       },
       {
         "wordEng": "box",
         "translateUkr": "Коробка",
-        "know": true
+        "id": 661
       },
       {
         "wordEng": "general",
         "translateUkr": "Загальний",
-        "know": false
+        "id": 662
       },
       {
         "wordEng": "outside",
         "translateUkr": "Зовні",
-        "know": false
+        "id": 663
       },
       {
         "wordEng": "lawyer",
         "translateUkr": "Адвокат, юрист",
-        "know": false
+        "id": 664
       },
       {
         "wordEng": "sister",
         "translateUkr": "Сестра",
-        "know": false
+        "id": 665
       },
       {
         "wordEng": "compare",
         "translateUkr": "Порівнювати",
-        "know": false
+        "id": 666
       },
       {
         "wordEng": "act",
         "translateUkr": "Діяти, вчинок, акт",
-        "know": false
+        "id": 667
       },
       {
         "wordEng": "clearly",
         "translateUkr": "Чітко, зрозуміло",
-        "know": false
+        "id": 668
       },
       {
         "wordEng": "example",
         "translateUkr": "Приклад",
-        "know": false
+        "id": 669
       },
       {
         "wordEng": "hang",
         "translateUkr": "Вішати, висіти",
-        "know": false
+        "id": 670
       },
       {
         "wordEng": "remove",
         "translateUkr": "Видаляти",
-        "know": false
+        "id": 671
       },
       {
         "wordEng": "cold",
         "translateUkr": "Холодний",
-        "know": false
+        "id": 672
       },
       {
         "wordEng": "memory",
         "translateUkr": "Пам'ять",
-        "know": false
+        "id": 673
       },
       {
         "wordEng": "establish",
         "translateUkr": "Встановити, заснувати",
-        "know": false
+        "id": 674
       },
       {
         "wordEng": "firm",
         "translateUkr": "Твердий, міцний",
-        "know": false
+        "id": 675
       },
       {
         "wordEng": "huge",
         "translateUkr": "Величезний",
-        "know": false
+        "id": 676
       },
       {
         "wordEng": "respond",
         "translateUkr": "Відповідати",
-        "know": false
+        "id": 677
       },
       {
         "wordEng": "traditional",
         "translateUkr": "Традиційний",
-        "know": false
+        "id": 678
       },
       {
         "wordEng": "contain",
         "translateUkr": "Містити в собі",
-        "know": false
+        "id": 679
       },
       {
         "wordEng": "wide",
         "translateUkr": "Широкий",
-        "know": false
+        "id": 680
       },
       {
         "wordEng": "response",
         "translateUkr": "Відповідь",
-        "know": false
+        "id": 681
       },
       {
         "wordEng": "feeling",
         "translateUkr": "Відчуття, сприйняття",
-        "know": false
+        "id": 682
       },
       {
         "wordEng": "arrive",
         "translateUkr": "Прибувати, приїжджати",
-        "know": false
+        "id": 683
       },
       {
         "wordEng": "present",
         "translateUkr": "Теперішній, присутній",
-        "know": false
+        "id": 684
       },
       {
         "wordEng": "operation",
         "translateUkr": "Операція",
-        "know": false
+        "id": 685
       },
       {
         "wordEng": "authority",
         "translateUkr": "Авторитет, влада",
-        "know": false
+        "id": 686
       },
       {
         "wordEng": "knowledge",
         "translateUkr": "Знання",
-        "know": false
+        "id": 687
       },
       {
         "wordEng": "discuss",
         "translateUkr": "Обговорювати",
-        "know": false
+        "id": 688
       },
       {
         "wordEng": "check",
         "translateUkr": "Перевіряти, контролювати",
-        "know": false
+        "id": 689
       },
       {
         "wordEng": "rather",
         "translateUkr": "Скоріше, вірніше",
-        "know": false
+        "id": 670
       },
       {
         "wordEng": "entire",
         "translateUkr": "Повний, цілий",
-        "know": false
+        "id": 671
       },
       {
         "wordEng": "manager",
         "translateUkr": "Менеджер",
-        "know": false
+        "id": 672
       },
       {
         "wordEng": "final",
         "translateUkr": "Остаточний, заключний",
-        "know": false
+        "id": 673
       },
       {
         "wordEng": "card",
         "translateUkr": "Картка",
-        "know": false
+        "id": 674
       },
       {
         "wordEng": "nice",
         "translateUkr": "Приємний, хороший",
-        "know": false
+        "id": 675
       },
       {
         "wordEng": "visit",
         "translateUkr": "Відвідувати",
-        "know": false
+        "id": 676
       },
       {
         "wordEng": "ball",
         "translateUkr": "М'яч",
-        "know": false
+        "id": 677
       },
       {
         "wordEng": "statement",
         "translateUkr": "Заява, ствердження",
-        "know": false
+        "id": 678
       },
       {
         "wordEng": "reveal",
         "translateUkr": "Розкрити, виявити",
-        "know": false
+        "id": 679
       },
       {
         "wordEng": "cultural",
         "translateUkr": "Культурний",
-        "know": false
+        "id": 680
       },
       {
         "wordEng": "measure",
         "translateUkr": "Вимірювати",
-        "know": false
+        "id": 681
       }
     ]
   },
@@ -3636,132 +3636,132 @@
       {
         "wordEng": "go up",
         "translateUkr": "Підніматися, сходити по чому-сь, на щось",
-        "know": false
+        "id": 0
       },
       {
         "wordEng": "go down",
         "translateUkr": "Спускатися, потонути, падати",
-        "know": false
+        "id": 1
       },
       {
         "wordEng": "go on",
         "translateUkr": "Продовжувати, тривати, іти далі",
-        "know": false
+        "id": 2
       },
       {
         "wordEng": "go out",
         "translateUkr": "Вийти назовні, згасати",
-        "know": false
+        "id": 3
       },
       {
         "wordEng": "go back",
         "translateUkr": "Повертайся назад, повернутися, рух з точки, в якій знах. говор чи слухач",
-        "know": false
+        "id": 4
       },
       {
         "wordEng": "go away",
         "translateUkr": "Йти геть",
-        "know": false
+        "id": 5
       },
       {
         "wordEng": "come up",
         "translateUkr": "Виникати, з'явитися",
-        "know": false
+        "id": 6
       },
       {
         "wordEng": "come down",
         "translateUkr": "Спуститися до низу, впасти",
-        "know": false
+        "id": 7
       },
       {
         "wordEng": "come out",
         "translateUkr": "Вийти (про книгу), стати відомим, закінчитися якимось результатом",
-        "know": false
+        "id": 8
       },
       {
         "wordEng": "come down with",
         "translateUkr": "Захворіти",
-        "know": false
+        "id": 9
       },
       {
         "wordEng": "come back",
         "translateUkr": "Повернутися, рух у точку, в якій знаходитьсяговор. або слухач",
-        "know": false
+        "id": 10
       },
       {
         "wordEng": "look up",
         "translateUkr": "Дивитися догори, подивитися, пошукати інформацію",
-        "know": false
+        "id": 11
       },
       {
         "wordEng": "look for",
         "translateUkr": "Шукати, сподіватися",
-        "know": false
+        "id": 12
       },
       {
         "wordEng": "look after",
         "translateUkr": "Наглядати за кимось, дбати, доглядати",
-        "know": false
+        "id": 13
       },
       {
         "wordEng": "look forward to",
         "translateUkr": "Чекати з нетерпінням",
-        "know": false
+        "id": 14
       },
       {
         "wordEng": "take up",
         "translateUkr": "Займатися, братися за щось нове,",
-        "know": false
+        "id": 15
       },
       {
         "wordEng": "take off",
         "translateUkr": "Знімати речі, злітати, скинути вагу",
-        "know": false
+        "id": 16
       },
       {
         "wordEng": "give up",
         "translateUkr": "Здаватися, відмовитися від чогось, кидати",
-        "know": false
+        "id": 17
       },
       {
         "wordEng": "give out",
         "translateUkr": "Роздавати, розподіляти,",
-        "know": false
+        "id": 18
       },
       {
         "wordEng": "turn on",
         "translateUkr": "Ввімкнути",
-        "know": false
+        "id": 19
       },
       {
         "wordEng": "turn off",
         "translateUkr": "Вимкнути",
-        "know": false
+        "id": 20
       },
       {
         "wordEng": "turn out",
         "translateUkr": "З'ясуватися",
-        "know": false
+        "id": 21
       },
       {
         "wordEng": "put on",
         "translateUkr": "Одягати, набрати вагу",
-        "know": false
+        "id": 22
       },
       {
         "wordEng": "put off",
         "translateUkr": "Відкладати",
-        "know": false
+        "id": 23
       },
       {
         "wordEng": "put down",
         "translateUkr": "Відкладати (у бік), Кидати щось робити, висаджувати (пасажирів)",
-        "know": false
+        "id": 24
       },
       {
         "wordEng": "break down",
         "translateUkr": "Ломати, ломатися, розпадатися",
-        "know": false
+        "id": 25
       }
     ]
   },
@@ -3774,7 +3774,7 @@
         "wordEng1": "",
         "wordEng2": "",
         "translateUkr": "",
-        "know": false
+        "id": 0
       }
     ]
   },
@@ -3785,7 +3785,7 @@
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 0
       }
     ]
   },
@@ -3796,7 +3796,7 @@
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 0
       }
     ]
   },
@@ -3807,7 +3807,7 @@
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 0
       }
     ]
   },
@@ -3818,612 +3818,612 @@
       {
         "wordEng": "garlic",
         "translateUkr": "Часник",
-        "know": false
+        "id": 0
       },
       {
         "wordEng": "fruit",
         "translateUkr": "Фрукт",
-        "know": false
+        "id": 1
       },
       {
         "wordEng": "raspberry",
         "translateUkr": "Малина",
-        "know": false
+        "id": 2
       },
       {
         "wordEng": "strawberry",
         "translateUkr": "Полуниця",
-        "know": false
+        "id": 3
       },
       {
         "wordEng": "eggplant",
         "translateUkr": "Баклажан",
-        "know": false
+        "id": 4
       },
       {
         "wordEng": "radish",
         "translateUkr": "Редис",
-        "know": false
+        "id": 5
       },
       {
         "wordEng": "tomato",
         "translateUkr": "Помідор",
-        "know": false
+        "id": 6
       },
       {
         "wordEng": "kiwi",
         "translateUkr": "Ківі",
-        "know": false
+        "id": 7
       },
       {
         "wordEng": "coconut",
         "translateUkr": "Кокос",
-        "know": false
+        "id": 8
       },
       {
         "wordEng": "ginger",
         "translateUkr": "Імбир",
-        "know": false
+        "id": 9
       },
       {
         "wordEng": "paprika",
         "translateUkr": "Перець паприка",
-        "know": false
+        "id": 10
       },
       {
         "wordEng": "grape",
         "translateUkr": "Виноград",
-        "know": false
+        "id": 11
       },
       {
         "wordEng": "pumpkin",
         "translateUkr": "Гарбуз",
-        "know": false
+        "id": 12
       },
       {
         "wordEng": "cherry",
         "translateUkr": "Вишня",
-        "know": false
+        "id": 13
       },
       {
         "wordEng": "carrot",
         "translateUkr": "Морква",
-        "know": false
+        "id": 14
       },
       {
         "wordEng": "grapefruit",
         "translateUkr": "Грейпфрукт",
-        "know": false
+        "id": 15
       },
       {
         "wordEng": "pea",
         "translateUkr": "Горох",
-        "know": false
+        "id": 16
       },
       {
         "wordEng": "cucumber",
         "translateUkr": "Огірок",
-        "know": false
+        "id": 17
       },
       {
         "wordEng": "plum",
         "translateUkr": "Слива",
-        "know": false
+        "id": 18
       },
       {
         "wordEng": "nectarine",
         "translateUkr": "Нектарін",
-        "know": false
+        "id": 19
       },
       {
         "wordEng": "mango",
         "translateUkr": "Манго",
-        "know": false
+        "id": 20
       },
       {
         "wordEng": "blueberry",
         "translateUkr": "Чорниця",
-        "know": false
+        "id": 21
       },
       {
         "wordEng": "onion",
         "translateUkr": "Цибуля",
-        "know": false
+        "id": 22
       },
       {
         "wordEng": "watermelon",
         "translateUkr": "Кавун",
-        "know": false
+        "id": 23
       },
       {
         "wordEng": "banana",
         "translateUkr": "Банан",
-        "know": false
+        "id": 24
       },
       {
         "wordEng": "orange",
         "translateUkr": "Апельсин",
-        "know": false
+        "id": 25
       },
       {
         "wordEng": "corn",
         "translateUkr": "Кукурудза",
-        "know": false
+        "id": 26
       },
       {
         "wordEng": "pineapple",
         "translateUkr": "Ананас",
-        "know": false
+        "id": 27
       },
       {
         "wordEng": "peach",
         "translateUkr": "Персик",
-        "know": false
+        "id": 28
       },
       {
         "wordEng": "celery",
         "translateUkr": "Селера",
-        "know": false
+        "id": 29
       },
       {
         "wordEng": "avocado",
         "translateUkr": "Авокадо",
-        "know": false
+        "id": 30
       },
       {
         "wordEng": "chilli",
         "translateUkr": "Перець чілі",
-        "know": false
+        "id": 31
       },
       {
         "wordEng": "apple",
         "translateUkr": "Яблуко",
-        "know": false
+        "id": 32
       },
       {
         "wordEng": "berry",
         "translateUkr": "Ягода",
-        "know": false
+        "id": 33
       },
       {
         "wordEng": "broccoli",
         "translateUkr": "Броколі",
-        "know": false
+        "id": 34
       },
       {
         "wordEng": "melon",
         "translateUkr": "Диня",
-        "know": false
+        "id": 35
       },
       {
         "wordEng": "lemon",
         "translateUkr": "Лимон",
-        "know": false
+        "id": 36
       },
       {
         "wordEng": "cabbage",
         "translateUkr": "Капуста",
-        "know": false
+        "id": 37
       },
       {
         "wordEng": "pear",
         "translateUkr": "Груша",
-        "know": false
+        "id": 38
       },
       {
         "wordEng": "vegetable",
         "translateUkr": "Овоч",
-        "know": false
+        "id": 39
       },
       {
         "wordEng": "potato",
         "translateUkr": "Картопля",
-        "know": false
+        "id": 40
       },
       {
         "wordEng": "apricot",
         "translateUkr": "Абрикос",
-        "know": false
+        "id": 41
       },
       {
         "wordEng": "pomegranate",
         "translateUkr": "Гранат",
-        "know": false
+        "id": 42
       },
       {
         "wordEng": "zuccini",
         "translateUkr": "Цукіні",
-        "know": false
+        "id": 43
       },
       {
         "wordEng": "milk",
         "translateUkr": "Молоко",
-        "know": false
+        "id": 44
       },
       {
         "wordEng": "juice",
         "translateUkr": "Сік",
-        "know": false
+        "id": 45
       },
       {
         "wordEng": "beverage",
         "translateUkr": "Напій",
-        "know": false
+        "id": 46
       },
       {
         "wordEng": "wine",
         "translateUkr": "Вино",
-        "know": false
+        "id": 47
       },
       {
         "wordEng": "beer",
         "translateUkr": "Пиво",
-        "know": false
+        "id": 48
       },
       {
         "wordEng": "herbal tea",
         "translateUkr": "Трав'яний чай",
-        "know": false
+        "id": 49
       },
       {
         "wordEng": "sparkling",
         "translateUkr": "Газована вода",
-        "know": false
+        "id": 50
       },
       {
         "wordEng": "hot drink",
         "translateUkr": "Гарячий напій",
-        "know": false
+        "id": 51
       },
       {
         "wordEng": "cappuccino",
         "translateUkr": "Капучіно",
-        "know": false
+        "id": 52
       },
       {
         "wordEng": "milkshake",
         "translateUkr": "Молочний коктейль",
-        "know": false
+        "id": 53
       },
       {
         "wordEng": "coffee",
         "translateUkr": "Кава",
-        "know": false
+        "id": 54
       },
       {
         "wordEng": "cocktail",
         "translateUkr": "Коктейль",
-        "know": false
+        "id": 55
       },
       {
         "wordEng": "green tea",
         "translateUkr": "Зелений чай",
-        "know": false
+        "id": 56
       },
       {
         "wordEng": "black tea",
         "translateUkr": "Чорний чай",
-        "know": false
+        "id": 57
       },
       {
         "wordEng": "soft drink",
         "translateUkr": "Безалкогольний напій",
-        "know": false
+        "id": 58
       },
       {
         "wordEng": "teabag",
         "translateUkr": "Чайний пакетик",
-        "know": false
+        "id": 59
       },
       {
         "wordEng": "mineral water",
         "translateUkr": "Мінеральна вода",
-        "know": false
+        "id": 60
       },
       {
         "wordEng": "lemonade",
         "translateUkr": "Лимонад",
-        "know": false
+        "id": 61
       },
       {
         "wordEng": "cocoa",
         "translateUkr": "Какао",
-        "know": false
+        "id": 62
       },
       {
         "wordEng": "tea",
         "translateUkr": "Чай",
-        "know": false
+        "id": 63
       },
       {
         "wordEng": "with ice",
         "translateUkr": "З льодом",
-        "know": false
+        "id": 64
       },
       {
         "wordEng": "dessert",
         "translateUkr": "Десерт",
-        "know": false
+        "id": 65
       },
       {
         "wordEng": "candy",
         "translateUkr": "Цукерка",
-        "know": false
+        "id": 66
       },
       {
         "wordEng": "lollipop",
         "translateUkr": "Льодяник (на паличці)",
-        "know": false
+        "id": 67
       },
       {
         "wordEng": "donut",
         "translateUkr": "Пончик",
-        "know": false
+        "id": 68
       },
       {
         "wordEng": "chocolate",
         "translateUkr": "Шоколад",
-        "know": false
+        "id": 69
       },
       {
         "wordEng": "chewing gum",
         "translateUkr": "Жувальна резинка",
-        "know": false
+        "id": 70
       },
       {
         "wordEng": "eclair",
         "translateUkr": "Еклер",
-        "know": false
+        "id": 71
       },
       {
         "wordEng": "waffle",
         "translateUkr": "Вафля",
-        "know": false
+        "id": 72
       },
       {
         "wordEng": "cheesecake",
         "translateUkr": "Чізкейк",
-        "know": false
+        "id": 73
       },
       {
         "wordEng": "pudding",
         "translateUkr": "Пудинг",
-        "know": false
+        "id": 74
       },
       {
         "wordEng": "pastry",
         "translateUkr": "Кондитерські вироби",
-        "know": false
+        "id": 75
       },
       {
         "wordEng": "ice cream",
         "translateUkr": "Морозиво",
-        "know": false
+        "id": 76
       },
       {
         "wordEng": "sweet",
         "translateUkr": "Солодкий",
-        "know": false
+        "id": 77
       },
       {
         "wordEng": "cookie",
         "translateUkr": "Печиво",
-        "know": false
+        "id": 78
       },
       {
         "wordEng": "toffee",
         "translateUkr": "Іриска",
-        "know": false
+        "id": 79
       },
       {
         "wordEng": "souffle",
         "translateUkr": "Суфле",
-        "know": false
+        "id": 80
       },
       {
         "wordEng": "sugar",
         "translateUkr": "Цукор",
-        "know": false
+        "id": 81
       },
       {
         "wordEng": "muffin",
         "translateUkr": "Маффін",
-        "know": false
+        "id": 82
       },
       {
         "wordEng": "pie",
         "translateUkr": "Пиріг",
-        "know": false
+        "id": 83
       },
       {
         "wordEng": "cake",
         "translateUkr": "Торт",
-        "know": false
+        "id": 84
       },
       {
         "wordEng": "popcorn",
         "translateUkr": "Попкорн",
-        "know": false
+        "id": 85
       },
       {
         "wordEng": "croissant",
         "translateUkr": "Круасан",
-        "know": false
+        "id": 86
       },
       {
         "wordEng": "honey",
         "translateUkr": "Мід",
-        "know": false
+        "id": 87
       },
       {
         "wordEng": "sour cream",
         "translateUkr": "Сметана",
-        "know": false
+        "id": 88
       },
       {
         "wordEng": "groceries",
         "translateUkr": "Продукти",
-        "know": false
+        "id": 89
       },
       {
         "wordEng": "mustard",
         "translateUkr": "Гірчиця",
-        "know": false
+        "id": 90
       },
       {
         "wordEng": "pepper",
         "translateUkr": "Перець (горошок)",
-        "know": false
+        "id": 91
       },
       {
         "wordEng": "ketchup",
         "translateUkr": "Кетчуп",
-        "know": false
+        "id": 91
       },
       {
         "wordEng": "bunch",
         "translateUkr": "Пучок",
-        "know": false
+        "id": 92
       },
       {
         "wordEng": "mince",
         "translateUkr": "Фарш",
-        "know": false
+        "id": 93
       },
       {
         "wordEng": "basil",
         "translateUkr": "Базилік",
-        "know": false
+        "id": 94
       },
       {
         "wordEng": "pizza",
         "translateUkr": "Піцца",
-        "know": false
+        "id": 95
       },
       {
         "wordEng": "meatball",
         "translateUkr": "Фрикаделька",
-        "know": false
+        "id": 96
       },
       {
         "wordEng": "butter",
         "translateUkr": "Вершкове масло",
-        "know": false
+        "id": 97
       },
       {
         "wordEng": "egg",
         "translateUkr": "Яйце",
-        "know": false
+        "id": 98
       },
       {
         "wordEng": "pasta",
         "translateUkr": "Макаронні вироби",
-        "know": false
+        "id": 99
       },
       {
         "wordEng": "hazelnut",
         "translateUkr": "Лісовий горіх, фундук",
-        "know": false
+        "id": 100
       },
       {
         "wordEng": "vinergar",
         "translateUkr": "Оцет",
-        "know": false
+        "id": 101
       },
       {
         "wordEng": "broth",
         "translateUkr": "Бульон",
-        "know": false
+        "id": 102
       },
       {
         "wordEng": "nutrient",
         "translateUkr": "Поживна речовина",
-        "know": false
+        "id": 103
       },
       {
         "wordEng": "dairy",
         "translateUkr": "Молочний продукт",
-        "know": false
+        "id": 104
       },
       {
         "wordEng": "snack",
         "translateUkr": "Закуска",
-        "know": false
+        "id": 105
       },
       {
         "wordEng": "meal",
         "translateUkr": "Їжа, прийом їжі",
-        "know": false
+        "id": 106
       },
       {
         "wordEng": "cheese",
         "translateUkr": "Сир твердий",
-        "know": false
+        "id": 107
       },
       {
         "wordEng": "mint",
         "translateUkr": "М'ята",
-        "know": false
+        "id": 108
       },
       {
         "wordEng": "dill",
         "translateUkr": "Укроп",
-        "know": false
+        "id": 109
       },
       {
         "wordEng": "yeast",
         "translateUkr": "Дріжді",
-        "know": false
+        "id": 110
       },
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 111
       },
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 112
       },
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 113
       },
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 114
       },
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 115
       },
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 116
       },
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 117
       },
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 118
       },
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 119
       },
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 120
       }
     ]
   },
@@ -4434,7 +4434,7 @@
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 0
       }
     ]
   },
@@ -4445,7 +4445,7 @@
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 0
       }
     ]
   },
@@ -4456,7 +4456,7 @@
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 0
       }
     ]
   },
@@ -4467,7 +4467,7 @@
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 0
       }
     ]
   },
@@ -4478,7 +4478,7 @@
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 0
       }
     ]
   },
@@ -4489,7 +4489,7 @@
       {
         "wordEng": "",
         "translateUkr": "",
-        "know": false
+        "id": 0
       }
     ]
   }
