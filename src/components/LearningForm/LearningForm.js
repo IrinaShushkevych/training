@@ -1,7 +1,12 @@
 import { useState } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { useLocation } from 'react-router-dom'
-import { fetchWords, fetchLearnedWords, getUserId } from '../../redux/selectors'
+import {
+  fetchWords,
+  fetchLearnedWords,
+  getUserId,
+  fetchAmountInputWords,
+} from '../../redux/selectors'
 import FormEnterWord from '../FormEnterWord'
 import WrongWords from '../WrongWords'
 import Button from '@mui/material/Button'
@@ -19,15 +24,36 @@ export default function LearningForm() {
   const [isShow, setIsShow] = useState(false)
   const dispatch = useDispatch()
   const userId = useSelector(getUserId)
+  const amountWords = useSelector(fetchAmountInputWords)
 
-  console.log(location)
+  const checkWord = (value) => {
+    let isRight = false
+    if (value) {
+      for (let i = 0; i < amountWords; i += 1) {
+        if (amountWords > 1) {
+          if (
+            value[i].toLowerCase().trim() ===
+              data[dataIdx].wordEng[i].toLowerCase().trim() &&
+            !isShow
+          ) {
+            isRight = true
+          }
+        } else {
+          if (
+            value[i].toLowerCase().trim() ===
+              data[dataIdx].wordEng.toLowerCase().trim() &&
+            !isShow
+          ) {
+            isRight = true
+          }
+        }
+      }
+    }
+    return isRight
+  }
 
   const onSubmit = (value) => {
-    if (
-      value.toLowerCase().trim() ===
-        data[dataIdx].wordEng.toLowerCase().trim() &&
-      !isShow
-    ) {
+    if (checkWord(value)) {
       if (!wrong.includes(data[dataIdx].id)) {
         setRight((prev) => [...prev, data[dataIdx].id])
       }
@@ -83,7 +109,9 @@ export default function LearningForm() {
           </span>
         )}
         <h1>{data[dataIdx].translateUkr}</h1>
-        {isShow && <h2 style={{ color: 'blue' }}>{data[dataIdx].wordEng}</h2>}
+        {isShow && (
+          <h2 style={{ color: 'blue' }}>{data[dataIdx].wordEng.join(' - ')}</h2>
+        )}
         <FormEnterWord onSubmit={onSubmit} onShowTranslate={onShowTranslate} />
         <p>Round {round}</p>
         <p>

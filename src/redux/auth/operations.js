@@ -7,7 +7,6 @@ export const getDataUser = createAsyncThunk('auth/getData', async (data) => {
 })
 
 export const setDataUser = createAsyncThunk('auth/setData', async (data) => {
-  console.log(data)
   const response = await setData(data.uid, data.data, data.type)
   return { type: data.type, data: response }
 })

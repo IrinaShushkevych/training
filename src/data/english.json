@@ -3770,11 +3770,559 @@
     "amountWord": 3,
     "words": [
       {
-        "wordEng": "",
-        "wordEng1": "",
-        "wordEng2": "",
-        "translateUkr": "",
+        "wordEng": ["put", "put", "put"],
+        "translateUkr": "Покласти",
         "id": 0
+      },
+      {
+        "wordEng": ["bet", "bet", "bet"],
+        "translateUkr": "Закладатися, битися об заклад",
+        "id": 1
+      },
+      {
+        "wordEng": ["cost", "cost", "cost"],
+        "translateUkr": "Вартувати, коштувати",
+        "id": 2
+      },
+      {
+        "wordEng": ["cut", "cut", "cut"],
+        "translateUkr": "Різати, вирізати",
+        "id": 3
+      },
+      {
+        "wordEng": ["fit", "fit", "fit"],
+        "translateUkr": "Годитися, підходити, бути до міри",
+        "id": 4
+      },
+      {
+        "wordEng": ["hit", "hit", "hit"],
+        "translateUkr": "Вдарити",
+        "id": 5
+      },
+      {
+        "wordEng": ["hurt", "hurt", "hurt"],
+        "translateUkr": "Завдавати болю",
+        "id": 6
+      },
+      {
+        "wordEng": ["let", "let", "let"],
+        "translateUkr": "Дозволяти",
+        "id": 7
+      },
+      {
+        "wordEng": ["set", "set", "set"],
+        "translateUkr": "Встановлювати",
+        "id": 8
+      },
+      {
+        "wordEng": ["shut", "shut", "shut"],
+        "translateUkr": "Закривати, зачиняти",
+        "id": 9
+      },
+      {
+        "wordEng": ["lay", "laid", "laid"],
+        "translateUkr": "Класти, прокладати",
+        "id": 10
+      },
+      {
+        "wordEng": ["pay", "paid", "paid"],
+        "translateUkr": "Платити",
+        "id": 11
+      },
+      {
+        "wordEng": ["say", "said", "said"],
+        "translateUkr": "Сказати",
+        "id": 12
+      },
+      {
+        "wordEng": ["build", "built", "built"],
+        "translateUkr": "Будувати",
+        "id": 13
+      },
+      {
+        "wordEng": ["lend", "lent", "lent"],
+        "translateUkr": "Позичати",
+        "id": 14
+      },
+      {
+        "wordEng": ["send", "sent", "sent"],
+        "translateUkr": "Відправляти",
+        "id": 15
+      },
+      {
+        "wordEng": ["spend", "spent", "spent"],
+        "translateUkr": "Витрачати",
+        "id": 16
+      },
+      {
+        "wordEng": ["have", "had", "had"],
+        "translateUkr": "Мати",
+        "id": 17
+      },
+      {
+        "wordEng": ["make", "made", "made"],
+        "translateUkr": "Зробити (виріб)",
+        "id": 18
+      },
+      {
+        "wordEng": ["deal", "dealt", "dealt"],
+        "translateUkr": "Розглядати",
+        "id": 19
+      },
+      {
+        "wordEng": ["dream", "dreamt", "dreamt"],
+        "translateUkr": "Мріяти",
+        "id": 20
+      },
+      {
+        "wordEng": ["mean", "meant", "meant"],
+        "translateUkr": "Означати, мати наа увазі",
+        "id": 21
+      },
+      {
+        "wordEng": ["read", "read", "read"],
+        "translateUkr": "Читати",
+        "id": 22
+      },
+      {
+        "wordEng": ["hear", "heart", "heart"],
+        "translateUkr": "Чути",
+        "id": 23
+      },
+      {
+        "wordEng": ["feed", "fed", "fed"],
+        "translateUkr": "Годувати",
+        "id": 24
+      },
+      {
+        "wordEng": ["feel", "felt", "felt"],
+        "translateUkr": "Відчувати",
+        "id": 25
+      },
+      {
+        "wordEng": ["keep", "kept", "kept"],
+        "translateUkr": "Тримати, утримувати",
+        "id": 26
+      },
+      {
+        "wordEng": ["meet", "met", "met"],
+        "translateUkr": "Зустрічати",
+        "id": 27
+      },
+      {
+        "wordEng": ["sleep", "slept", "slept"],
+        "translateUkr": "Спати",
+        "id": 28
+      },
+      {
+        "wordEng": ["leave", "left", "left"],
+        "translateUkr": "Залишати",
+        "id": 29
+      },
+      {
+        "wordEng": ["bleed", "bled", "bled"],
+        "translateUkr": "Кровоточити, проливати кров",
+        "id": 30
+      },
+      {
+        "wordEng": ["bring", "brought", "brought"],
+        "translateUkr": "Приносити",
+        "id": 31
+      },
+      {
+        "wordEng": ["buy", "bought", "bought"],
+        "translateUkr": "Купувати",
+        "id": 32
+      },
+      {
+        "wordEng": ["fight", "fought", "fought"],
+        "translateUkr": "Боротися",
+        "id": 33
+      },
+      {
+        "wordEng": ["seek", "sought", "sought"],
+        "translateUkr": "Шукати",
+        "id": 34
+      },
+      {
+        "wordEng": ["think", "though", "thought"],
+        "translateUkr": "Думати",
+        "id": 35
+      },
+      {
+        "wordEng": ["catch", "caught", "caught"],
+        "translateUkr": "Ловити",
+        "id": 36
+      },
+      {
+        "wordEng": ["teach", "taught", "taught"],
+        "translateUkr": "Навчати",
+        "id": 37
+      },
+      {
+        "wordEng": ["sell", "sold", "sold"],
+        "translateUkr": "Продавати",
+        "id": 38
+      },
+      {
+        "wordEng": ["tell", "told", "told"],
+        "translateUkr": "Розказувати",
+        "id": 39
+      },
+      {
+        "wordEng": ["rise", "rose", "risen"],
+        "translateUkr": "Підніматися",
+        "id": 40
+      },
+      {
+        "wordEng": ["ride", "rode", "ridden"],
+        "translateUkr": "Їздити, кататися (верхи)",
+        "id": 41
+      },
+      {
+        "wordEng": ["drive", "drove", "driven"],
+        "translateUkr": "Їздити, водити",
+        "id": 42
+      },
+      {
+        "wordEng": ["write", "wrote", "written"],
+        "translateUkr": "Писати",
+        "id": 43
+      },
+      {
+        "wordEng": ["bite", "bit", "bitten"],
+        "translateUkr": "Кусати(жалити, клювати, щипати)",
+        "id": 44
+      },
+      {
+        "wordEng": ["hide", "hid", "hidden"],
+        "translateUkr": "Ховати",
+        "id": 45
+      },
+      {
+        "wordEng": ["eat", "ate", "eaten"],
+        "translateUkr": "Їсти",
+        "id": 46
+      },
+      {
+        "wordEng": ["give", "gave", "given"],
+        "translateUkr": "Давати",
+        "id": 47
+      },
+      {
+        "wordEng": ["take", "took", "taken"],
+        "translateUkr": "Брати",
+        "id": 48
+      },
+      {
+        "wordEng": ["shake", "shook", "shaken"],
+        "translateUkr": "Струсити, тремтіти",
+        "id": 49
+      },
+      {
+        "wordEng": ["see", "saw", "seen"],
+        "translateUkr": "Бачити",
+        "id": 50
+      },
+      {
+        "wordEng": ["beat", "beat", "beaten"],
+        "translateUkr": "Бити",
+        "id": 51
+      },
+      {
+        "wordEng": ["fall", "fell", "fallen"],
+        "translateUkr": "Падати",
+        "id": 52
+      },
+      {
+        "wordEng": ["get", "got", "gotten"],
+        "translateUkr": "Отримати",
+        "id": 53
+      },
+      {
+        "wordEng": ["break", "broke", "broken"],
+        "translateUkr": "Ломати",
+        "id": 54
+      },
+      {
+        "wordEng": ["choose", "chose", "chosen"],
+        "translateUkr": "Вибирати",
+        "id": 55
+      },
+      {
+        "wordEng": ["freeze", "froze", "frozen"],
+        "translateUkr": "Заморозити",
+        "id": 56
+      },
+      {
+        "wordEng": ["speak", "spoke", "spoken"],
+        "translateUkr": "Говорити",
+        "id": 57
+      },
+      {
+        "wordEng": ["steal", "stole", "stolen"],
+        "translateUkr": "Вкрасти",
+        "id": 58
+      },
+      {
+        "wordEng": ["wake", "woke", "woken"],
+        "translateUkr": "Прокидатися",
+        "id": 59
+      },
+      {
+        "wordEng": ["come", "came", "come"],
+        "translateUkr": "Прийти",
+        "id": 60
+      },
+      {
+        "wordEng": ["become", "became", "become"],
+        "translateUkr": "Стати, зробитися",
+        "id": 61
+      },
+      {
+        "wordEng": ["run", "ran", "run"],
+        "translateUkr": "Бігати",
+        "id": 62
+      },
+      {
+        "wordEng": ["blow", "blew", "blown"],
+        "translateUkr": "Дути, видувати, зігрівати подихом",
+        "id": 63
+      },
+      {
+        "wordEng": ["grow", "grew", "grown"],
+        "translateUkr": "Рости",
+        "id": 64
+      },
+      {
+        "wordEng": ["know", "knew", "known"],
+        "translateUkr": "Знати",
+        "id": 65
+      },
+      {
+        "wordEng": ["throw", "threw", "thrown"],
+        "translateUkr": "Кидати",
+        "id": 66
+      },
+      {
+        "wordEng": ["fly", "flew", "flown"],
+        "translateUkr": "Літати",
+        "id": 67
+      },
+      {
+        "wordEng": ["draw", "drew", "drown"],
+        "translateUkr": "Малювати",
+        "id": 68
+      },
+      {
+        "wordEng": ["begin", "began", "begun"],
+        "translateUkr": "Починати",
+        "id": 69
+      },
+      {
+        "wordEng": ["drink", "drank", "drunk"],
+        "translateUkr": "Пити",
+        "id": 70
+      },
+      {
+        "wordEng": ["ring", "rang", "rung"],
+        "translateUkr": "Дзвеніти, дзвонити",
+        "id": 71
+      },
+      {
+        "wordEng": ["sing", "sang", "sung"],
+        "translateUkr": "Співати",
+        "id": 72
+      },
+      {
+        "wordEng": ["swim", "swam", "swum"],
+        "translateUkr": "Плавати",
+        "id": 73
+      },
+      {
+        "wordEng": ["stand", "stood", "stood"],
+        "translateUkr": "Стояти",
+        "id": 74
+      },
+      {
+        "wordEng": ["sit", "sat", "sat"],
+        "translateUkr": "Сидіти",
+        "id": 75
+      },
+      {
+        "wordEng": ["win", "won", "won"],
+        "translateUkr": "Вигравати",
+        "id": 76
+      },
+      {
+        "wordEng": ["lose", "lost", "lost"],
+        "translateUkr": "Губити, втрачати",
+        "id": 77
+      },
+      {
+        "wordEng": ["do", "did", "done"],
+        "translateUkr": "Робити",
+        "id": 78
+      },
+      {
+        "wordEng": ["go", "went", "gone"],
+        "translateUkr": "Йти",
+        "id": 79
+      },
+      {
+        "wordEng": ["be", "was were", "been"],
+        "translateUkr": "Бути",
+        "id": 80
+      },
+      {
+        "wordEng": ["grind", "ground", "ground"],
+        "translateUkr": "Молоти, перемелювати",
+        "id": 81
+      },
+      {
+        "wordEng": ["forecast", "forecast", "forecast"],
+        "translateUkr": "Прогнозувати, передбачати",
+        "id": 82
+      },
+      {
+        "wordEng": ["bind", "bound", "bound"],
+        "translateUkr": "Зв'язувати",
+        "id": 83
+      },
+      {
+        "wordEng": ["speed", "sped", "sped"],
+        "translateUkr": "Прискорюватися, рухатися швидко",
+        "id": 84
+      },
+      {
+        "wordEng": ["spit", "spat", "spat"],
+        "translateUkr": "Плювати",
+        "id": 85
+      },
+      {
+        "wordEng": ["show", "showed", "shown"],
+        "translateUkr": "Показувати",
+        "id": 86
+      },
+      {
+        "wordEng": ["spring", "sprang", "sprung"],
+        "translateUkr": "Давати паростки, Вскочити",
+        "id": 87
+      },
+      {
+        "wordEng": ["swear", "swore", "sworn"],
+        "translateUkr": "Клястися",
+        "id": 88
+      },
+      {
+        "wordEng": ["kneel", "knelt", "knelt"],
+        "translateUkr": "Ставати на коліна",
+        "id": 89
+      },
+      {
+        "wordEng": ["dive", "dove", "dived"],
+        "translateUkr": "Пірнати, занурюватися",
+        "id": 90
+      },
+      {
+        "wordEng": ["swell", "swelled", "swollen"],
+        "translateUkr": "Набухати, набрякати",
+        "id": 91
+      },
+      {
+        "wordEng": ["sew", "sewed", "sewn"],
+        "translateUkr": "Шити, зашивати",
+        "id": 92
+      },
+      {
+        "wordEng": ["wind", "wound", "wound"],
+        "translateUkr": "Дути, намотувати",
+        "id": 93
+      },
+      {
+        "wordEng": ["hold", "held", "held"],
+        "translateUkr": "Тримати, утримувати(за руку)",
+        "id": 94
+      },
+      {
+        "wordEng": ["light", "lit", "lit"],
+        "translateUkr": "Освітлювати",
+        "id": 95
+      },
+      {
+        "wordEng": ["rid", "rid", "rid"],
+        "translateUkr": "Звільняти, позбавляти",
+        "id": 96
+      },
+      {
+        "wordEng": ["slay", "slew", "slain"],
+        "translateUkr": "Убити, вразити",
+        "id": 97
+      },
+      {
+        "wordEng": ["spread", "spread", "spread"],
+        "translateUkr": "Розповсюджувати",
+        "id": 98
+      },
+      {
+        "wordEng": ["bread", "bred", "bred"],
+        "translateUkr": "Розводити, вирощувати",
+        "id": 99
+      },
+      {
+        "wordEng": ["learn", "learnt", "learnt"],
+        "translateUkr": "Вчитися",
+        "id": 100
+      },
+      {
+        "wordEng": ["strive", "strove", "striven"],
+        "translateUkr": "Старатися, докладати зусиль",
+        "id": 101
+      },
+      {
+        "wordEng": ["sling", "slung", "slung"],
+        "translateUkr": "Швиряти, підвішувати",
+        "id": 102
+      },
+      {
+        "wordEng": ["string", "strung", "strung"],
+        "translateUkr": "Нанизувати, натягувати",
+        "id": 103
+      },
+      {
+        "wordEng": ["burst", "burst", "burst"],
+        "translateUkr": "Вибухати, лопатися",
+        "id": 104
+      },
+      {
+        "wordEng": ["dig", "dug", "dug"],
+        "translateUkr": "Копати",
+        "id": 105
+      },
+      {
+        "wordEng": ["creep", "crept", "crept"],
+        "translateUkr": "Повзати",
+        "id": 106
+      },
+      {
+        "wordEng": ["stink", "stank", "stunk"],
+        "translateUkr": "Воняти",
+        "id": 107
+      },
+      {
+        "wordEng": ["lie", "lay", "lain"],
+        "translateUkr": "Брехати",
+        "id": 108
+      },
+      {
+        "wordEng": ["cast", "cast", "cast"],
+        "translateUkr": "Відливати, лити",
+        "id": 109
+      },
+      {
+        "wordEng": ["flee", "fled", "fled"],
+        "translateUkr": "Тікати, сторонитися",
+        "id": 110
       }
     ]
   },

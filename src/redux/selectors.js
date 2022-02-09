@@ -19,3 +19,11 @@ export const isAuth = (state) => {
 export const getUserId = (state) => {
   return state.auth.uid
 }
+
+export const fetchAmountInputWords = (state) => {
+  if (state.auth.type) {
+    return state.enwords[state.auth.type].amountWord
+  } else {
+    return 0
+  }
+}
