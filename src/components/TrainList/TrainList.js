@@ -63,6 +63,7 @@ export default function TrainList({ amountPage }) {
     for (let i = 0; i < countPage; i += 1) {
       el.push(
         <button
+          key={i}
           type="button"
           onClick={() => {
             onChangePage(i)
@@ -100,18 +101,20 @@ export default function TrainList({ amountPage }) {
     <>
       <table>
         <tbody>
-          {data.slice(page, page + amountPage).map((el, idx) => (
-            <TrainItem
-              element={el}
-              value={translateList[idx]}
-              idx={idx}
-              isShowTranslate={isShowTranslate}
-              isChecked={isChecked}
-              wrongWord={wrong[idx]}
-              onChange={onChange}
-              key={el.id}
-            />
-          ))}
+          {data
+            .slice(page * amountPage, page * amountPage + amountPage - 1)
+            .map((el, idx) => (
+              <TrainItem
+                element={el}
+                value={translateList[idx]}
+                idx={idx}
+                isShowTranslate={isShowTranslate}
+                isChecked={isChecked}
+                wrongWord={wrong[idx]}
+                onChange={onChange}
+                key={el.id}
+              />
+            ))}
         </tbody>
       </table>
       <div>
