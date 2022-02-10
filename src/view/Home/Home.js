@@ -28,6 +28,11 @@ export default function Home() {
                 Training
               </Link>
             </li>
+            <li className={s.Item}>
+              <Link to="/trainerList" className={s.Link}>
+                Training many words
+              </Link>
+            </li>
           </ul>
         )}
         <ul className={s.List}>

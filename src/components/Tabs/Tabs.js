@@ -4,7 +4,7 @@ import { fetchTypeWords, getUserId } from '../../redux/selectors'
 import s from './Tabs.module.scss'
 import { getDataUser } from '../../redux/auth/operations'
 
-export default function Tabs() {
+export default function Tabs({ isList = false }) {
   const typeData = useSelector(fetchTypeWords)
   const userId = useSelector(getUserId)
   const navigate = useNavigate()
@@ -12,7 +12,11 @@ export default function Tabs() {
 
   const onClick = (key) => {
     dispatch(getDataUser({ uid: userId, type: key }))
-    navigate(`/learning`, { state: { type: key } })
+    if (isList) {
+      navigate(`/learningList`, { state: { type: key } })
+    } else {
+      navigate(`/learning`, { state: { type: key } })
+    }
   }
 
   return (

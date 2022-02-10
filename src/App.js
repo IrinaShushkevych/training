@@ -7,6 +7,7 @@ import RegisterForm from './components/RegisterForm'
 import Tabs from './components/Tabs'
 import Home from './view/Home'
 import Learning from './view/Learning'
+import TrainList from './components/TrainList'
 
 function App() {
   return (
@@ -14,8 +15,31 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />}>
           <Route
+            path="/trainerList/*"
+            element={
+              <PrivetRoute
+                element={<Tabs isList={true} />}
+                redirectTo="/login"
+              />
+            }
+          />
+          <Route
             path="/trainer/*"
-            element={<PrivetRoute element={<Tabs />} redirectTo="/login" />}
+            element={
+              <PrivetRoute
+                element={<Tabs isList={false} />}
+                redirectTo="/login"
+              />
+            }
+          />
+          <Route
+            path="/learningList/*"
+            element={
+              <PrivetRoute
+                element={<TrainList amountPage={10} />}
+                redirectTo="/login"
+              />
+            }
           />
           <Route
             path="/learning/*"

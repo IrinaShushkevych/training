@@ -4206,7 +4206,7 @@
       },
       {
         "wordEng": ["spring", "sprang", "sprung"],
-        "translateUkr": "Давати паростки, Вскочити",
+        "translateUkr": "Давати паростки, Вскочити, стрибати",
         "id": 87
       },
       {
@@ -4261,7 +4261,7 @@
       },
       {
         "wordEng": ["spread", "spread", "spread"],
-        "translateUkr": "Розповсюджувати",
+        "translateUkr": "Розповсюджувати, розносити, ширитися, розстилати, сервирувати",
         "id": 98
       },
       {
@@ -4323,6 +4323,371 @@
         "wordEng": ["flee", "fled", "fled"],
         "translateUkr": "Тікати, сторонитися",
         "id": 110
+      },
+      {
+        "wordEng": ["burn", "burnt", "burnt"],
+        "translateUkr": "Горіти",
+        "id": 111
+      },
+      {
+        "wordEng": ["find", "found", "found"],
+        "translateUkr": "Знаходити",
+        "id": 112
+      },
+      {
+        "wordEng": ["forget", "forgot", "forgotten"],
+        "translateUkr": "Забувати",
+        "id": 113
+      },
+      {
+        "wordEng": ["forgive", "forgave", "forgiven"],
+        "translateUkr": "Пробачати",
+        "id": 114
+      },
+      {
+        "wordEng": ["hang", "hung", "hung"],
+        "translateUkr": "Вішати",
+        "id": 115
+      },
+      {
+        "wordEng": ["lead", "led", "led"],
+        "translateUkr": "Вести",
+        "id": 116
+      },
+      {
+        "wordEng": ["mistake", "mistook", "mistaken"],
+        "translateUkr": "Помилятися",
+        "id": 117
+      },
+      {
+        "wordEng": ["prove", "proved", "proven"],
+        "translateUkr": "Доводити",
+        "id": 118
+      },
+      {
+        "wordEng": ["quit", "quit", "quit"],
+        "translateUkr": "Кидати, залишати",
+        "id": 119
+      },
+      {
+        "wordEng": ["shrink", "shrank", "shrunk"],
+        "translateUkr": "Морщитися, скорочуватися, зсідатися",
+        "id": 120
+      },
+      {
+        "wordEng": ["sink", "sank", "sunk"],
+        "translateUkr": "Тонути, затопити",
+        "id": 121
+      },
+      {
+        "wordEng": ["slide", "slid", "slid"],
+        "translateUkr": "Ковзати",
+        "id": 122
+      },
+      {
+        "wordEng": ["sow", "sowed", "sown"],
+        "translateUkr": "Сіяти",
+        "id": 123
+      },
+      {
+        "wordEng": ["spell", "spelt", "spelt"],
+        "translateUkr": "Говорити по буквах",
+        "id": 124
+      },
+      {
+        "wordEng": ["spill", "spilt", "spilt"],
+        "translateUkr": "Проливати, розсипати",
+        "id": 125
+      },
+      {
+        "wordEng": ["spoil", "spoilt", "spoilt"],
+        "translateUkr": "Псуватися",
+        "id": 126
+      },
+      {
+        "wordEng": ["stick", "stuck", "stuck"],
+        "translateUkr": "Втикати, колоти, приклеїти",
+        "id": 127
+      },
+      {
+        "wordEng": ["sting", "stung", "stung"],
+        "translateUkr": "Жалити",
+        "id": 128
+      },
+      {
+        "wordEng": ["sweep", "swept", "swept"],
+        "translateUkr": "Вимітати",
+        "id": 129
+      },
+      {
+        "wordEng": ["swing", "swung", "swung"],
+        "translateUkr": "Качати",
+        "id": 130
+      },
+      {
+        "wordEng": ["wear", "wore", "woren"],
+        "translateUkr": "Носити (одяг)",
+        "id": 131
+      },
+      {
+        "wordEng": ["weep", "wept", "wept"],
+        "translateUkr": "Плакати, мокнути",
+        "id": 132
+      },
+      {
+        "wordEng": ["wet", "wet", "wet"],
+        "translateUkr": "Мочити",
+        "id": 133
+      },
+      {
+        "wordEng": ["wring", "wrung", "wrung"],
+        "translateUkr": "Потиснути, віджимати, скручувати",
+        "id": 134
+      },
+      {
+        "wordEng": ["tear", "tore", "torn"],
+        "translateUkr": "Порвати, сльозитися",
+        "id": 135
+      },
+      {
+        "wordEng": ["shave", "shaved", "shaven"],
+        "translateUkr": "Голитися",
+        "id": 136
+      },
+      {
+        "wordEng": ["rive", "rived", "riven"],
+        "translateUkr": "Розколювати (яйце), розщеплювати",
+        "id": 137
+      },
+      {
+        "wordEng": ["abide", "abode", "abode"],
+        "translateUkr": "Дотримуватися, бути міцним",
+        "id": 138
+      },
+      {
+        "wordEng": ["bend", "bent", "bent"],
+        "translateUkr": "Згинати, вигинати",
+        "id": 139
+      },
+      {
+        "wordEng": ["bid", "bid", "bid"],
+        "translateUkr": "Пропонувати ціну",
+        "id": 140
+      },
+      {
+        "wordEng": ["breed", "bred", "bred"],
+        "translateUkr": "Вирощувати, розводити",
+        "id": 141
+      },
+      {
+        "wordEng": ["cling", "clung", "clung"],
+        "translateUkr": "Прилипати, чіплятися, лишатися вірним",
+        "id": 142
+      },
+      {
+        "wordEng": ["dwell", "dwelt", "dwelt"],
+        "translateUkr": "Мешкати, жити, існувати",
+        "id": 143
+      },
+      {
+        "wordEng": ["fling", "flung", "flung"],
+        "translateUkr": "Кидати, жбурляти",
+        "id": 144
+      },
+      {
+        "wordEng": ["forbid", "forbade", "forbiden"],
+        "translateUkr": "Заборонити",
+        "id": 145
+      },
+      {
+        "wordEng": ["lean", "leant", "leant"],
+        "translateUkr": "Спиратися, притулятися, нахилятися",
+        "id": 146
+      },
+      {
+        "wordEng": ["leap", "leapt", "leapt"],
+        "translateUkr": "Пригати, скакати",
+        "id": 147
+      },
+      {
+        "wordEng": ["shear", "sheared", "shorn"],
+        "translateUkr": "Стригти, косити",
+        "id": 148
+      },
+      {
+        "wordEng": ["shed", "shed", "shed"],
+        "translateUkr": "Ставити в сарай, лити, проливати",
+        "id": 149
+      },
+      {
+        "wordEng": ["shine", "shone", "shone"],
+        "translateUkr": "Світити, сяяти",
+        "id": 150
+      },
+      {
+        "wordEng": ["shoe", "shod", "shod"],
+        "translateUkr": "Взувати, підковувати",
+        "id": 151
+      },
+      {
+        "wordEng": ["slink", "slunk", "slunk"],
+        "translateUkr": "Йти крадькома",
+        "id": 152
+      },
+      {
+        "wordEng": ["smell", "smelt", "smelt"],
+        "translateUkr": "Пахнути, вдихати носом",
+        "id": 153
+      },
+      {
+        "wordEng": ["slit", "slit", "slit"],
+        "translateUkr": "Розрізати",
+        "id": 154
+      },
+      {
+        "wordEng": ["split", "split", "split"],
+        "translateUkr": "Розколювати, розійняти, розщепити",
+        "id": 155
+      },
+      {
+        "wordEng": ["stride", "strode", "stridden"],
+        "translateUkr": "Широко крокувати",
+        "id": 156
+      },
+      {
+        "wordEng": ["strike", "struck", "struck"],
+        "translateUkr": "Страйкувати, вдаряти",
+        "id": 157
+      },
+      {
+        "wordEng": ["sweep", "swept", "swept"],
+        "translateUkr": "Підмітати, мести",
+        "id": 158
+      },
+      {
+        "wordEng": ["swing", "swung", "swung"],
+        "translateUkr": "Гойдати, розхитувати, колихати",
+        "id": 159
+      },
+      {
+        "wordEng": ["mislead", "misled", "misled"],
+        "translateUkr": "Вводити в оману",
+        "id": 160
+      },
+      {
+        "wordEng": ["withdraw", "withdrew", "withdrown"],
+        "translateUkr": "Знімати (готівку), брати назад",
+        "id": 161
+      },
+      {
+        "wordEng": ["arise", "arose", "arisen"],
+        "translateUkr": "Зявлятися, виникати",
+        "id": 162
+      },
+      {
+        "wordEng": ["foresee", "foresaw", "foreseen"],
+        "translateUkr": "Передбачити",
+        "id": 163
+      },
+      {
+        "wordEng": ["foretell", "foretold", "foretold"],
+        "translateUkr": "Провіщати, ворожити",
+        "id": 164
+      },
+      {
+        "wordEng": ["overcome", "overcame", "overcome"],
+        "translateUkr": "Подолати, оволодіти, здолати, опритомніти",
+        "id": 165
+      },
+      {
+        "wordEng": ["overhear", "overheard", "overheard"],
+        "translateUkr": "Підслуховувати",
+        "id": 166
+      },
+      {
+        "wordEng": ["inlay", "inlaid", "inlaid"],
+        "translateUkr": "Інкрустувати, викладати мозаїку",
+        "id": 167
+      },
+      {
+        "wordEng": ["forsake", "forsook", "forsaken"],
+        "translateUkr": "Покинути, лишити",
+        "id": 168
+      },
+      {
+        "wordEng": ["undertake", "undertook", "undertaken"],
+        "translateUkr": "Брати на себе, ручатися",
+        "id": 169
+      },
+      {
+        "wordEng": ["dare", "dust", "dared"],
+        "translateUkr": "Наважитись, посміти, порушити безпеку",
+        "id": 170
+      },
+      {
+        "wordEng": ["withhold", "withheld", "withheld"],
+        "translateUkr": "Протистояти, витримати",
+        "id": 171
+      },
+      {
+        "wordEng": ["overtake", "overtook", "overtaken"],
+        "translateUkr": "Наздоганяти, опановувати",
+        "id": 172
+      },
+      {
+        "wordEng": ["knit", "knit", "knit"],
+        "translateUkr": "В'язати",
+        "id": 173
+      },
+      {
+        "wordEng": ["thrust", "thrust", "thrust"],
+        "translateUkr": "Штовхати, засовувати, тикати, штрикати",
+        "id": 174
+      },
+      {
+        "wordEng": ["tread", "trod", "trodden"],
+        "translateUkr": "Розтоптати, ступати",
+        "id": 175
+      },
+      {
+        "wordEng": ["weave", "wove", "woven"],
+        "translateUkr": "Плести, торочити,ткати, сплітати",
+        "id": 176
+      },
+      {
+        "wordEng": ["wed", "wed", "wed"],
+        "translateUkr": "Брати шлюб, видавати заміж, женити",
+        "id": 177
+      },
+      {
+        "wordEng": ["thrive", "throve", "thriven"],
+        "translateUkr": "Процвітати, розростатися",
+        "id": 178
+      },
+      {
+        "wordEng": ["broadcast", "broadcast", "broadcast"],
+        "translateUkr": "Передавати, транслювати",
+        "id": 179
+      },
+      {
+        "wordEng": ["awake", "awoke", "awoken"],
+        "translateUkr": "Будити, прокидатися",
+        "id": 180
+      },
+      {
+        "wordEng": ["preset", "preset", "preset"],
+        "translateUkr": "Задавати, заранше встановлювати",
+        "id": 181
+      },
+      {
+        "wordEng": ["understand", "understood", "understood"],
+        "translateUkr": "Зрозуміти",
+        "id": 182
+      },
+      {
+        "wordEng": ["bear", "bore", "born"],
+        "translateUkr": "Наплоджувати, нести (ідеї)",
+        "id": 18
       }
     ]
   },
