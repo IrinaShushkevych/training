@@ -37,7 +37,7 @@ export default function LoginForm() {
         type="email"
         name="email"
         className={s.Input}
-        placeholder="email"
+        placeholder=" "
         onChange={onEnter}
         value={email}
         required
@@ -46,7 +46,7 @@ export default function LoginForm() {
         type="password"
         name="password"
         className={s.Input}
-        placeholder="required"
+        placeholder=" "
         onChange={onEnter}
         value={password}
         required

@@ -27,11 +27,21 @@
 }
 
 .Item {
-  padding: 10px;
+  &:not(:last-child) {
+    margin-right: 20px;
+  }
 }
 
 .Link {
+  display: inline-block;
   color: white;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.active {
+  border-bottom: 4px solid rgb(138, 234, 247);
+  color: rgb(138, 234, 247);
 }
 
 .Hide {

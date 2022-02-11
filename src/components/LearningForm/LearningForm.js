@@ -1,29 +1,17 @@
 import { useState } from 'react'
-import { useDispatch, useSelector } from 'react-redux'
-import { useLocation } from 'react-router-dom'
-import {
-  fetchWords,
-  fetchLearnedWords,
-  getUserId,
-  fetchAmountInputWords,
-} from '../../redux/selectors'
+import { useSelector } from 'react-redux'
+import { fetchWords, fetchAmountInputWords } from '../../redux/selectors'
 import FormEnterWord from '../FormEnterWord'
 import WrongWords from '../WrongWords'
-import Button from '@mui/material/Button'
-import LibraryAddIcon from '@mui/icons-material/LibraryAdd'
-import { setDataUser } from '../../redux/auth/operations'
+import RightWrong from '../RightWrong'
 
 export default function LearningForm() {
-  const location = useLocation().state?.type
   const data = useSelector(fetchWords)
-  const learnedData = useSelector(fetchLearnedWords)
   const [dataIdx, setDataIdx] = useState(0)
   const [wrong, setWrong] = useState([])
   const [right, setRight] = useState([])
   const [round, setRound] = useState(1)
   const [isShow, setIsShow] = useState(false)
-  const dispatch = useDispatch()
-  const userId = useSelector(getUserId)
   const amountWords = useSelector(fetchAmountInputWords)
 
   const checkWord = (value) => {
@@ -78,28 +66,6 @@ export default function LearningForm() {
     setIsShow(true)
   }
 
-  const onSaveData = () => {
-    dispatch(
-      setDataUser({
-        uid: userId,
-        type: location,
-        data: { words: [...learnedData, ...right] },
-      }),
-    )
-  }
-
-  const onUnSaveData = () => {
-    dispatch(
-      setDataUser({
-        uid: userId,
-        type: location,
-        data: {
-          words: [...learnedData.filter((el) => !wrong.includes(el.id))],
-        },
-      }),
-    )
-  }
-
   return data && data[dataIdx] ? (
     <>
       <div>
@@ -110,20 +76,17 @@ export default function LearningForm() {
         )}
         <h1>{data[dataIdx].translateUkr}</h1>
         {isShow && (
-          <h2 style={{ color: 'blue' }}>{data[dataIdx].wordEng.join(' - ')}</h2>
+          <h2 style={{ color: 'blue' }}>
+            {amountWords === 1
+              ? data[dataIdx].wordEng
+              : data[dataIdx].wordEng.join(' - ')}
+          </h2>
         )}
         <FormEnterWord onSubmit={onSubmit} onShowTranslate={onShowTranslate} />
         <p>Round {round}</p>
-        <p>
-          Right: {right.length} / Error: {wrong.length}
-        </p>
-        <Button
-          variant="contained"
-          endIcon={<LibraryAddIcon />}
-          onClick={onSaveData}
-        >
-          Save right words
-        </Button>
+
+        <RightWrong right={right} wrong={wrong} />
+
         <WrongWords
           wrong={data.filter((el) => wrong.includes(el.id)).reverse()}
         />

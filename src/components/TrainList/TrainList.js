@@ -1,10 +1,10 @@
 import { useEffect, useState } from 'react'
 import { useSelector } from 'react-redux'
-import Button from '@mui/material/Button'
-import SendIcon from '@mui/icons-material/Send'
-import PreviewIcon from '@mui/icons-material/Preview'
 import { fetchWords, fetchAmountInputWords } from '../../redux/selectors'
 import TrainItem from '../TrainItem'
+import Pagination from '../Pagination'
+import BlockButtonCheck from '../BlockButtonCheck'
+import RightWrong from '../RightWrong'
 
 export default function TrainList({ amountPage }) {
   const [isShowTranslate, setIsShowTranslate] = useState(false)
@@ -41,10 +41,8 @@ export default function TrainList({ amountPage }) {
           translateList[i][0].trim().toLowerCase()
         ) {
           rightTemp[i] = data[idxData + i].id
-          console.log(i, data[idxData + i].id)
         } else {
           wrongTemp[i] = data[idxData + i].id
-          console.log(i, data[idxData + i].id)
         }
       } else {
       }
@@ -54,33 +52,21 @@ export default function TrainList({ amountPage }) {
     setWrong(wrongTemp)
   }
 
-  const createPagination = () => {
-    const el = []
-    let countPage = Math.ceil(data.length / amountPage)
-    if (data.length / amountPage > 0) {
-      countPage += 1
-    }
-    for (let i = 0; i < countPage; i += 1) {
-      el.push(
-        <button
-          key={i}
-          type="button"
-          onClick={() => {
-            onChangePage(i)
-          }}
-        >
-          {i + 1}
-        </button>,
-      )
-    }
-    return el
-  }
-
   const onChangePage = (value) => {
     setPage(value)
   }
 
+  const updateRightWrong = () => {
+    const initialWords = []
+    for (let i = 0; i < amountPage; i += 1) {
+      initialWords.push(null)
+    }
+    setRight(initialWords)
+    setWrong(initialWords)
+  }
+
   useEffect(() => {
+    console.log('Effect')
     const initial = []
     const initialWords = []
     const arr = []
@@ -95,7 +81,7 @@ export default function TrainList({ amountPage }) {
     setRight(initialWords)
     setWrong(initialWords)
     setTranslateList(initial)
-  }, [amountPage, amountWords])
+  }, [amountPage, amountWords, page, data])
 
   return (
     <>
@@ -117,25 +103,19 @@ export default function TrainList({ amountPage }) {
             ))}
         </tbody>
       </table>
-      <div>
-        <Button
-          type="button"
-          variant="contained"
-          endIcon={<SendIcon />}
-          onClick={onCheckWords}
-        >
-          Check
-        </Button>
-        <Button
-          type="button"
-          variant="contained"
-          endIcon={<PreviewIcon />}
-          onClick={onShowTranslate}
-        >
-          Show
-        </Button>
-      </div>
-      <div>{createPagination()}</div>
+      <BlockButtonCheck
+        onCheckWords={onCheckWords}
+        onShowTranslate={onShowTranslate}
+      />
+
+      <RightWrong right={right} wrong={wrong} onUpdate={updateRightWrong} />
+
+      <Pagination
+        countItem={amountPage}
+        total={data.length}
+        amountActiveButtons={6}
+        setNextPage={onChangePage}
+      />
     </>
   )
 }

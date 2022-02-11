@@ -1,5 +1,5 @@
 import { useDispatch, useSelector } from 'react-redux'
-import { Link, Outlet } from 'react-router-dom'
+import { Link, NavLink, Outlet } from 'react-router-dom'
 
 import { removeUser } from '../../redux/auth/slice'
 import { isAuth } from '../../redux/selectors'
@@ -19,19 +19,37 @@ export default function Home() {
         {isAuthed && (
           <ul className={s.ListRight}>
             <li className={s.Item}>
-              <Link to="/" className={s.Link}>
+              <NavLink
+                className={({ isActive }) =>
+                  isActive ? `${s.Link} ${s.active}` : s.Link
+                }
+                to="/"
+                // className={s.Link}
+              >
                 Home
-              </Link>
+              </NavLink>
             </li>
             <li className={s.Item}>
-              <Link to="/trainer" className={s.Link}>
+              <NavLink
+                className={({ isActive }) =>
+                  isActive ? `${s.Link} ${s.active}` : s.Link
+                }
+                to="/trainer"
+                // className={s.Link}
+              >
                 Training
-              </Link>
+              </NavLink>
             </li>
             <li className={s.Item}>
-              <Link to="/trainerList" className={s.Link}>
+              <NavLink
+                className={({ isActive }) =>
+                  isActive ? `${s.Link} ${s.active}` : s.Link
+                }
+                to="/trainerList"
+                // className={s.Link}
+              >
                 Training many words
-              </Link>
+              </NavLink>
             </li>
           </ul>
         )}

@@ -1,11 +1,11 @@
 import { useSelector, useDispatch } from 'react-redux'
 import { useNavigate } from 'react-router-dom'
-import { fetchTypeWords, getUserId } from '../../redux/selectors'
+import { amountTypeWords, getUserId } from '../../redux/selectors'
 import s from './Tabs.module.scss'
 import { getDataUser } from '../../redux/auth/operations'
 
 export default function Tabs({ isList = false }) {
-  const typeData = useSelector(fetchTypeWords)
+  const typeData = useSelector(amountTypeWords)
   const userId = useSelector(getUserId)
   const navigate = useNavigate()
   const dispatch = useDispatch()
@@ -29,7 +29,8 @@ export default function Tabs({ isList = false }) {
             onClick(el.key)
           }}
         >
-          {el.name}
+          <p className={s.Text}> {el.name}</p>
+          <p className={s.Text}>{el.amount}</p>
         </button>
       ))}
     </div>

@@ -27,3 +27,8 @@ export const fetchAmountInputWords = (state) => {
     return 0
   }
 }
+
+export const amountTypeWords = (state) => {
+  const el = fetchTypeWords(state)
+  return el.map((e) => ({ ...e, amount: state.enwords[e.key].words.length }))
+}
